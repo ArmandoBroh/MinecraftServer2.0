@@ -6992,3 +6992,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Mar2025 03:11:15.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zafiro_21[/127.104.194.155:44221] logged in with entity id 24884 at (698.3000000119209, 68.0, 383.41494944516285)
 [08Mar2025 03:11:15.323] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@19e67a25 into net.minecraft.network.Connection@7abe1cce
 [08Mar2025 03:11:15.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 joined the game
+[08Mar2025 03:14:25.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[08Mar2025 03:14:25.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[08Mar2025 03:19:25.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[08Mar2025 03:19:25.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[08Mar2025 03:19:43.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has reached the goal [Die Classy]

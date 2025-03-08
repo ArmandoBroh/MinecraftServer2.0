@@ -976,3 +976,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Mar2025 03:11:15.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zafiro_21[/127.104.194.155:44221] logged in with entity id 24884 at (698.3000000119209, 68.0, 383.41494944516285)
 [08Mar2025 03:11:15.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 joined the game
 [08Mar2025 03:19:43.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has reached the goal [Die Classy]
+[08Mar2025 03:38:57.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zafiro_21 lost connection: Disconnected
+[08Mar2025 03:38:57.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 left the game
+[08Mar2025 03:39:15.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArmandoBroh lost connection: Disconnected
+[08Mar2025 03:39:15.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh left the game
+[08Mar2025 03:39:34.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[08Mar2025 03:39:34.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Mar2025 03:39:34.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Mar2025 03:39:34.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Mar2025 03:39:35.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NiditoDeAmor]'/minecraft:overworld
+[08Mar2025 03:39:35.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NiditoDeAmor]'/minecraft:the_nether
+[08Mar2025 03:39:35.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NiditoDeAmor]'/minecraft:the_end
+[08Mar2025 03:39:35.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (NiditoDeAmor): All chunks are saved
+[08Mar2025 03:39:35.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Mar2025 03:39:35.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Mar2025 03:39:35.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

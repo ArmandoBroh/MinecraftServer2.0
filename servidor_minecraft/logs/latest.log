@@ -1,29 +1,27 @@
-[02Mar2025 07:23:19.216] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.9, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
-[02Mar2025 07:23:19.219] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.14 by Ubuntu
-[02Mar2025 07:23:19.358] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MinecraftServer2.0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
-[02Mar2025 07:23:19.651] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.9/fmlcore-1.18.2-40.2.9.jar is missing mods.toml file
-[02Mar2025 07:23:19.652] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.9/javafmllanguage-1.18.2-40.2.9.jar is missing mods.toml file
-[02Mar2025 07:23:19.653] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.9/lowcodelanguage-1.18.2-40.2.9.jar is missing mods.toml file
-[02Mar2025 07:23:19.655] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.9/mclanguage-1.18.2-40.2.9.jar is missing mods.toml file
-[02Mar2025 07:23:19.830] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[02Mar2025 07:23:22.580] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[02Mar2025 07:23:22.750] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[02Mar2025 07:23:22.794] [main/WARN] [mixin/]: Reference map 'iammusicplayer-forge-refmap.json' for iammusicplayer.mixins.json could not be read. If this is a development environment you can ignore this message
-[02Mar2025 07:23:22.803] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
-[02Mar2025 07:23:24.122] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
-[02Mar2025 07:23:24.122] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/LocalPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER)
-[02Mar2025 07:23:24.123] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.LocalPlayer was not found playerrevive.mixins.json:LocalPlayerAccessor
-[02Mar2025 07:23:32.814] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[02Mar2025 07:23:32.939] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
-[02Mar2025 07:23:33.953] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[02Mar2025 07:23:33.987] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_sync
-[02Mar2025 07:23:33.987] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_add
-[02Mar2025 07:23:33.988] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_edit
-[02Mar2025 07:23:33.988] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
-[02Mar2025 07:23:33.988] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_add
-[02Mar2025 07:23:33.988] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_edit
-[02Mar2025 07:23:33.989] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
-[02Mar2025 07:23:33.988] [modloading-worker-0/INFO] [dev.felnull.otyacraftengine.OtyacraftEngine/]: 
+[08Mar2025 02:33:07.548] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.9, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[08Mar2025 02:33:07.553] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.14 by Ubuntu
+[08Mar2025 02:33:07.881] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MinecraftServer2.0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[08Mar2025 02:33:08.278] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.9/fmlcore-1.18.2-40.2.9.jar is missing mods.toml file
+[08Mar2025 02:33:08.281] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.9/javafmllanguage-1.18.2-40.2.9.jar is missing mods.toml file
+[08Mar2025 02:33:08.282] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.9/lowcodelanguage-1.18.2-40.2.9.jar is missing mods.toml file
+[08Mar2025 02:33:08.284] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.9/mclanguage-1.18.2-40.2.9.jar is missing mods.toml file
+[08Mar2025 02:33:08.456] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[08Mar2025 02:33:11.480] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[08Mar2025 02:33:11.579] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[08Mar2025 02:33:11.632] [main/WARN] [mixin/]: Reference map 'iammusicplayer-forge-refmap.json' for iammusicplayer.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Mar2025 02:33:11.637] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Mar2025 02:33:12.633] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[08Mar2025 02:33:12.634] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/LocalPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER)
+[08Mar2025 02:33:12.634] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.LocalPlayer was not found playerrevive.mixins.json:LocalPlayerAccessor
+[08Mar2025 02:33:20.700] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[08Mar2025 02:33:20.835] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[08Mar2025 02:33:21.762] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[08Mar2025 02:33:21.795] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_sync
+[08Mar2025 02:33:21.796] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_add
+[08Mar2025 02:33:21.797] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_edit
+[08Mar2025 02:33:21.798] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
+[08Mar2025 02:33:21.799] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_add
+[08Mar2025 02:33:21.799] [modloading-worker-0/INFO] [dev.felnull.otyacraftengine.OtyacraftEngine/]: 
                      ==     =-
                      ==    ==
                ==    ========     =-
@@ -48,44 +46,43 @@
                     =     ==
                    *=     =+
 
-[02Mar2025 07:23:33.991] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_update_result
-[02Mar2025 07:23:33.992] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
-[02Mar2025 07:23:33.992] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:multiple_music_add
-[02Mar2025 07:23:33.992] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
-[02Mar2025 07:23:34.001] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
-[02Mar2025 07:23:34.002] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
-[02Mar2025 07:23:34.182] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.9, for MC 1.18.2 with MCP 20220404.173914
-[02Mar2025 07:23:34.182] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.9 Initialized
-[02Mar2025 07:23:34.446] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[02Mar2025 07:23:54.543] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
-[02Mar2025 07:23:55.671] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[02Mar2025 07:23:55.672] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[02Mar2025 07:23:56.317] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
-[02Mar2025 07:23:56.320] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
-[02Mar2025 07:23:56.440] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[02Mar2025 07:23:56.442] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[02Mar2025 07:23:56.444] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[02Mar2025 07:23:56.619] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[02Mar2025 07:23:56.950] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[02Mar2025 07:23:57.506] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: AHEAD Current: 0.6.11-107 Target: null
-[02Mar2025 07:23:57.506] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[02Mar2025 07:23:57.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[02Mar2025 07:23:57.556] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[02Mar2025 07:23:57.569] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 7.7.3 Target: 7.7.6
-[02Mar2025 07:23:57.569] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Starting version check at https://raw.githubusercontent.com/TeamFelnull/OtyacraftEngine/master/version_check.json
-[02Mar2025 07:23:57.582] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Found status: AHEAD Current: 2.14 Target: null
-[02Mar2025 07:23:57.582] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Starting version check at https://raw.githubusercontent.com/TeamFelnull/IamMusicPlayer/master/version_check.json
-[02Mar2025 07:23:57.730] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Found status: UP_TO_DATE Current: 3.16.6 Target: null
-[02Mar2025 07:23:57.730] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.18.2
-[02Mar2025 07:23:58.200] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA Current: 9.1.211 Target: 9.1.211
-[02Mar2025 07:23:58.201] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[02Mar2025 07:23:58.424] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.9 Target: 40.3.0
-[02Mar2025 07:23:58.484] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 84 ms
-[02Mar2025 07:23:58.514] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[02Mar2025 07:23:58.514] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[02Mar2025 07:23:58.534] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[02Mar2025 07:23:58.534] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[02Mar2025 07:23:58.561] [modloading-worker-0/ERROR] [WTHIT/]: [WTHIT] Error creating instance of plugin null
+[08Mar2025 02:33:21.799] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_edit
+[08Mar2025 02:33:21.800] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
+[08Mar2025 02:33:21.815] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_update_result
+[08Mar2025 02:33:21.815] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
+[08Mar2025 02:33:21.815] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:multiple_music_add
+[08Mar2025 02:33:21.816] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
+[08Mar2025 02:33:21.826] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
+[08Mar2025 02:33:21.827] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
+[08Mar2025 02:33:22.034] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.9, for MC 1.18.2 with MCP 20220404.173914
+[08Mar2025 02:33:22.034] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.9 Initialized
+[08Mar2025 02:33:22.358] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[08Mar2025 02:33:43.960] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
+[08Mar2025 02:33:44.822] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[08Mar2025 02:33:44.823] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[08Mar2025 02:33:45.273] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+[08Mar2025 02:33:45.274] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+[08Mar2025 02:33:45.384] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[08Mar2025 02:33:45.636] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[08Mar2025 02:33:45.992] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[08Mar2025 02:33:46.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: AHEAD Current: 0.6.11-107 Target: null
+[08Mar2025 02:33:46.569] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[08Mar2025 02:33:46.609] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[08Mar2025 02:33:46.612] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[08Mar2025 02:33:46.632] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 7.7.3 Target: 7.7.6
+[08Mar2025 02:33:46.633] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Starting version check at https://raw.githubusercontent.com/TeamFelnull/OtyacraftEngine/master/version_check.json
+[08Mar2025 02:33:46.647] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Found status: AHEAD Current: 2.14 Target: null
+[08Mar2025 02:33:46.647] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Starting version check at https://raw.githubusercontent.com/TeamFelnull/IamMusicPlayer/master/version_check.json
+[08Mar2025 02:33:46.785] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Found status: UP_TO_DATE Current: 3.16.6 Target: null
+[08Mar2025 02:33:46.786] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.18.2
+[08Mar2025 02:33:47.193] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 110 ms
+[08Mar2025 02:33:47.230] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[08Mar2025 02:33:47.231] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[08Mar2025 02:33:47.232] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[08Mar2025 02:33:47.232] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[08Mar2025 02:33:47.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA_OUTDATED Current: 9.1.211 Target: 9.1.213
+[08Mar2025 02:33:47.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08Mar2025 02:33:47.283] [modloading-worker-0/ERROR] [WTHIT/]: [WTHIT] Error creating instance of plugin null
 java.lang.NoClassDefFoundError: mcp/mobius/waila/api/ui/IElement
 	at java.lang.Class.forName0(Native Method) ~[?:?]
 	at java.lang.Class.forName(Class.java:375) ~[?:?]
@@ -114,24 +111,25 @@ Caused by: java.lang.ClassNotFoundException: mcp.mobius.waila.api.ui.IElement
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-1.0.8.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 19 more
-[02Mar2025 07:23:58.582] [modloading-worker-0/INFO] [WTHIT/]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.forge.ForgePlugins.Core
-[02Mar2025 07:23:58.602] [modloading-worker-0/INFO] [WTHIT/]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.forge.ForgePlugins.Vanilla
-[02Mar2025 07:23:58.636] [modloading-worker-0/INFO] [WTHIT/]: [WTHIT] Plugin config reloaded
-[02Mar2025 07:24:03.647] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02Mar2025 07:24:07.087] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2377!/assets/.mcassetsroot' uses unexpected schema
-[02Mar2025 07:24:07.088] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2377!/data/.mcassetsroot' uses unexpected schema
-[02Mar2025 07:24:07.382] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 98 ms
-[02Mar2025 07:24:11.013] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02Mar2025 07:24:11.015] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02Mar2025 07:24:11.018] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02Mar2025 07:24:11.020] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02Mar2025 07:24:11.022] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02Mar2025 07:24:11.029] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02Mar2025 07:24:11.031] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02Mar2025 07:24:11.033] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02Mar2025 07:24:11.034] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02Mar2025 07:24:17.604] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
-[02Mar2025 07:24:17.638] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:very_old_cassette_tape
+[08Mar2025 02:33:47.300] [modloading-worker-0/INFO] [WTHIT/]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.forge.ForgePlugins.Core
+[08Mar2025 02:33:47.313] [modloading-worker-0/INFO] [WTHIT/]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.forge.ForgePlugins.Vanilla
+[08Mar2025 02:33:47.352] [modloading-worker-0/INFO] [WTHIT/]: [WTHIT] Plugin config reloaded
+[08Mar2025 02:33:47.552] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.9 Target: 40.3.0
+[08Mar2025 02:33:53.100] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08Mar2025 02:33:56.832] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2377!/assets/.mcassetsroot' uses unexpected schema
+[08Mar2025 02:33:56.832] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2377!/data/.mcassetsroot' uses unexpected schema
+[08Mar2025 02:33:56.982] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 67 ms
+[08Mar2025 02:34:00.537] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08Mar2025 02:34:00.546] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08Mar2025 02:34:00.550] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08Mar2025 02:34:00.551] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08Mar2025 02:34:00.553] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08Mar2025 02:34:00.558] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08Mar2025 02:34:00.559] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08Mar2025 02:34:00.561] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08Mar2025 02:34:00.563] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08Mar2025 02:34:06.953] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
+[08Mar2025 02:34:06.989] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:very_old_cassette_tape
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -174,10 +172,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[02Mar2025 07:24:17.652] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_lantern as it's serializer returned null
-[02Mar2025 07:24:17.659] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_trapdoor as it's serializer returned null
-[02Mar2025 07:24:17.660] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[02Mar2025 07:24:17.685] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:radio_antenna
+[08Mar2025 02:34:06.993] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_lantern as it's serializer returned null
+[08Mar2025 02:34:07.005] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_trapdoor as it's serializer returned null
+[08Mar2025 02:34:07.018] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[08Mar2025 02:34:07.044] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:radio_antenna
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -220,7 +218,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[02Mar2025 07:24:17.696] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_storing
+[08Mar2025 02:34:07.046] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_storing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -263,7 +261,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[02Mar2025 07:24:17.712] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_deck
+[08Mar2025 02:34:07.055] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_deck
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -306,7 +304,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[02Mar2025 07:24:17.778] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:music_sharing_device
+[08Mar2025 02:34:07.087] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:music_sharing_device
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -349,9 +347,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[02Mar2025 07:24:17.799] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[02Mar2025 07:24:17.803] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_door as it's serializer returned null
-[02Mar2025 07:24:17.825] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:boombox
+[08Mar2025 02:34:07.106] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[08Mar2025 02:34:07.111] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_door as it's serializer returned null
+[08Mar2025 02:34:07.124] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:boombox
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -394,7 +392,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[02Mar2025 07:24:17.864] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:katyou
+[08Mar2025 02:34:07.145] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:katyou
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -437,8 +435,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[02Mar2025 07:24:17.900] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[02Mar2025 07:24:17.922] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:sound_file_uploader
+[08Mar2025 02:34:07.188] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[08Mar2025 02:34:07.208] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:sound_file_uploader
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -481,7 +479,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[02Mar2025 07:24:17.956] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:parabolic_antenna
+[08Mar2025 02:34:07.231] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:parabolic_antenna
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -524,8 +522,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[02Mar2025 07:24:17.961] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb_2 as it's serializer returned null
-[02Mar2025 07:24:17.966] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iammusicplayer:manual
+[08Mar2025 02:34:07.233] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb_2 as it's serializer returned null
+[08Mar2025 02:34:07.236] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iammusicplayer:manual
 com.google.gson.JsonSyntaxException: Unknown item 'iammusicplayer:manual'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:155) ~[forge-1.18.2-40.2.9-universal.jar%2382!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:181) ~[forge-1.18.2-40.2.9-universal.jar%2382!/:?]
@@ -572,7 +570,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iammusicplayer:manual'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[02Mar2025 07:24:17.990] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:old_cassette_tape
+[08Mar2025 02:34:07.345] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:old_cassette_tape
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -615,7 +613,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[02Mar2025 07:24:18.006] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:music_manager
+[08Mar2025 02:34:07.365] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:music_manager
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -658,7 +656,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[02Mar2025 07:24:18.012] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_tape
+[08Mar2025 02:34:07.366] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_tape
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -701,7 +699,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[02Mar2025 07:24:18.021] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:first_parabolic_antenna
+[08Mar2025 02:34:07.372] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:first_parabolic_antenna
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -744,8 +742,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[02Mar2025 07:24:18.027] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 25 recipes
-[02Mar2025 07:24:18.880] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table unusualfishmod:entities/gnasher
+[08Mar2025 02:34:07.374] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 25 recipes
+[08Mar2025 02:34:08.139] [Worker-Main-5/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table unusualfishmod:entities/gnasher
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'ladsmobs:depth_essence'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -831,7 +829,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[02Mar2025 07:24:19.381] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table unusualfishmod:entities/rootball
+[08Mar2025 02:34:08.761] [Worker-Main-5/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table unusualfishmod:entities/rootball
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'ladsmobs:bloom_essence'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -917,420 +915,51 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[02Mar2025 07:24:19.714] [Worker-Main-6/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[02Mar2025 07:24:19.734] [Worker-Main-6/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[02Mar2025 07:24:19.874] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2882 advancements
-[02Mar2025 07:24:19.935] [Worker-Main-6/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 41 Soft Fluids
-[02Mar2025 07:24:19.957] [Worker-Main-6/INFO] [CraftTweaker/]: crafttweaker.reload.start
-[02Mar2025 07:24:20.752] [Worker-Main-6/INFO] [CraftTweaker/]: crafttweaker.reload.complete
-[02Mar2025 07:24:23.315] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
-[02Mar2025 07:24:23.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[02Mar2025 07:24:23.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[02Mar2025 07:24:23.618] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[02Mar2025 07:24:23.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[02Mar2025 07:24:23.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[02Mar2025 07:24:23.953] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[02Mar2025 07:24:24.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "NiditoDeAmor"
-[02Mar2025 07:24:25.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[02Mar2025 07:24:27.325] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Mar2025 07:24:27.342] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Mar2025 07:24:27.354] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Mar2025 07:24:27.362] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Mar2025 07:24:27.376] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Mar2025 07:24:27.877] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Mar2025 07:24:28.375] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Mar2025 07:24:28.880] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Mar2025 07:24:29.375] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Mar2025 07:24:29.876] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[02Mar2025 07:24:30.375] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[02Mar2025 07:24:30.875] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[02Mar2025 07:24:31.375] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
-[02Mar2025 07:24:31.875] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
-[02Mar2025 07:24:32.375] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
-[02Mar2025 07:24:32.887] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
-[02Mar2025 07:24:33.375] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
-[02Mar2025 07:24:33.943] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8569 ms
-[02Mar2025 07:24:33.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.798s)! For help, type "help"
-[02Mar2025 07:24:34.023] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[02Mar2025 07:24:34.055] [Server thread/INFO] [WTHIT/]: [WTHIT] Plugin config reloaded
-[02Mar2025 07:24:34.061] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=true, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, ICE_DRAGON_CAVE_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=false, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
-[02Mar2025 07:24:34.066] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=false, TROLL_F=true}
-[02Mar2025 07:24:58.361] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ArmandoBroh is b64e39e6-2383-4e94-86b4-832f1820976b
-[02Mar2025 07:25:00.727] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@20dde4eb
-[02Mar2025 07:25:00.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArmandoBroh[/127.231.174.51:36125] logged in with entity id 500 at (1433.4000080697824, 63.0, 1689.3645571420004)
-[02Mar2025 07:25:00.824] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh joined the game
-[02Mar2025 07:25:02.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
-[02Mar2025 07:25:28.812] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Zafiro_21 is a9ee7dbd-b4e3-4b6a-81da-d9d0562514c7
-[02Mar2025 07:25:31.443] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@11430a95
-[02Mar2025 07:25:31.453] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zafiro_21[/127.104.194.155:52769] logged in with entity id 1227 at (1432.2453744816964, 63.0, 1691.3946361949593)
-[02Mar2025 07:25:31.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 joined the game
-[02Mar2025 07:27:30.730] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zafiro_21 lost connection: Disconnected
-[02Mar2025 07:27:30.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 left the game
-[02Mar2025 07:29:19.716] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Zafiro_21 is a9ee7dbd-b4e3-4b6a-81da-d9d0562514c7
-[02Mar2025 07:29:22.339] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@657b5beb
-[02Mar2025 07:29:22.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zafiro_21[/127.104.194.155:53823] logged in with entity id 2037 at (1435.9296788578297, 63.0, 1701.699999988079)
-[02Mar2025 07:29:22.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 joined the game
-[02Mar2025 07:31:24.279] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArmandoBroh lost connection: Disconnected
-[02Mar2025 07:31:24.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh left the game
-[02Mar2025 07:34:54.372] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ArmandoBroh is b64e39e6-2383-4e94-86b4-832f1820976b
-[02Mar2025 07:34:56.685] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@47df4e62
-[02Mar2025 07:34:56.692] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArmandoBroh[/127.231.174.51:47907] logged in with entity id 4105 at (1431.7149438066633, 63.0, 1694.890400740338)
-[02Mar2025 07:34:56.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh joined the game
-[02Mar2025 07:37:46.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArmandoBroh lost connection: Disconnected
-[02Mar2025 07:37:46.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh left the game
-[02Mar2025 07:40:50.111] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ArmandoBroh is b64e39e6-2383-4e94-86b4-832f1820976b
-[02Mar2025 07:40:52.598] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5ae5e8a0
-[02Mar2025 07:40:52.605] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArmandoBroh[/127.231.174.51:39811] logged in with entity id 5821 at (1425.068491727687, 63.0, 1688.4753591276901)
-[02Mar2025 07:40:52.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh joined the game
-[02Mar2025 07:46:32.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has made the advancement [An Ear-Shattering Roar]
-[02Mar2025 07:47:13.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has made the advancement [Dragon Commander]
-[02Mar2025 07:48:08.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 has made the advancement [Mother of Dragons]
-[02Mar2025 07:52:56.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArmandoBroh lost connection: Disconnected
-[02Mar2025 07:52:56.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh left the game
-[02Mar2025 07:54:51.060] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ArmandoBroh is b64e39e6-2383-4e94-86b4-832f1820976b
-[02Mar2025 07:54:53.397] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@73fe28d6
-[02Mar2025 07:54:53.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArmandoBroh[/127.231.174.51:44933] logged in with entity id 10101 at (1419.8945165698817, 64.0, 1724.8004988846697)
-[02Mar2025 07:54:53.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh joined the game
-[02Mar2025 08:07:11.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has made the advancement [Enchanter]
-[02Mar2025 08:08:09.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has made the advancement [Fishy Business]
-[02Mar2025 08:26:48.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has made the advancement [Magic Writing]
-[02Mar2025 08:42:26.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 is bleeding. Zafiro_21 was burnt to a crisp whilst fighting Fire Dragon
-[02Mar2025 08:42:26.690] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
-[02Mar2025 08:42:26.693] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
-[02Mar2025 08:43:26.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 was burnt to a crisp whilst fighting Fire Dragon
-[02Mar2025 08:43:32.667] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:32.702] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:32.737] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:32.788] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:32.815] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:32.848] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:32.875] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:32.906] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:32.941] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:32.983] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.018] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.051] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.112] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.150] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.176] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.212] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.242] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.272] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.300] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.330] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.361] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.403] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.432] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.498] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.526] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.558] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.586] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.623] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.651] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.693] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.723] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.756] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.822] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.858] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.889] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.924] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.958] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:33.993] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.021] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.057] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.087] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.119] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.145] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.219] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.251] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.286] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.313] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.347] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.378] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.409] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.438] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.470] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.531] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.564] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.594] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.629] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.658] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.696] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.734] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.767] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.800] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.832] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.869] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.932] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:34.963] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:35.006] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:35.034] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:35.067] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:35.095] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:35.151] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:35.202] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:35.256] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:35.325] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:35.362] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:35.389] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:35.428] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:35.454] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:35.499] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:35.559] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:35.609] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:35.649] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:35.721] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:35.763] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:35.837] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:35.869] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:35.901] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:35.967] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:36.008] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:36.050] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:36.117] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:36.154] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:36.210] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:36.278] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:36.313] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:36.344] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:36.419] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:36.454] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:36.506] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:36.541] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:36.594] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:36.643] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:36.699] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:36.742] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:36.827] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:36.863] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:36.908] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:36.941] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:37.009] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:37.047] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:37.101] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:37.146] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:37.195] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:37.278] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:37.319] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:37.353] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:37.394] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:37.443] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:37.495] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:37.543] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:37.595] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:37.640] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:37.703] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:37.744] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:37.824] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:37.857] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:37.895] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:37.940] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:37.994] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:38.042] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:38.098] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:38.141] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:38.193] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:38.277] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:38.312] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:38.342] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:38.390] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:38.443] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:38.494] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:38.551] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:38.592] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:38.651] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:38.695] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:38.746] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:38.820] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:38.855] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:38.889] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:38.941] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:39.001] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:39.048] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:39.096] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:39.140] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:39.194] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:39.312] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:39.348] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:39.382] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:39.411] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:39.442] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:39.494] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:39.539] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:39.602] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:39.644] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:39.689] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:39.739] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:39.818] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:39.859] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:39.893] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:39.942] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:39.992] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:40.043] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:40.094] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:40.144] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:40.189] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:40.281] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:40.315] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:40.348] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:40.391] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:40.442] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:40.489] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:40.540] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:40.593] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:40.640] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:40.693] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:40.741] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:40.831] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:40.866] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:40.913] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:40.949] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:41.004] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:41.043] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:41.100] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:41.142] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:41.199] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:41.277] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:41.311] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:41.345] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:41.396] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:41.439] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:41.493] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:41.542] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:41.603] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:41.642] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:41.699] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:41.743] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:41.822] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:41.851] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:41.897] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:41.960] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:42.011] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:42.049] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:42.099] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:42.152] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:42.214] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:42.286] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:42.328] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:42.358] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:42.394] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:42.444] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:42.499] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:42.541] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:42.594] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:42.638] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:42.699] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:42.746] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:42.829] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:42.859] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:42.897] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:42.943] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:42.997] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:43.045] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:43.094] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:43.147] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:43.195] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:43.280] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:43.313] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:43.342] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:43.397] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:43.442] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:43.493] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:43.543] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:43.601] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:43.646] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:43.707] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:43.748] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:43.828] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:43.861] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:43.894] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:43.941] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:43.993] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:44.047] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:44.096] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:44.138] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:44.197] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:44.277] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:44.312] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:44.347] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:44.396] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:44.437] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:44.496] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:44.537] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:44.594] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:44.639] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:44.693] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:44.738] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:44.830] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:44.866] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:44.904] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:44.938] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:44.991] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:45.040] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:45.092] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:45.151] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:45.206] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:45.280] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:45.332] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:45.371] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:45.409] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:45.441] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:45.499] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:45.538] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:45.594] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:45.639] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:45.696] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:45.738] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:45.822] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:45.852] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:45.892] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:45.938] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:45.992] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:46.038] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:46.094] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:46.142] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:46.197] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:46.284] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:46.323] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:46.356] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:46.397] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:46.443] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:46.497] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:46.541] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:46.592] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:46.645] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:46.691] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:46.745] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:46.834] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:46.865] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:46.899] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:46.939] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:46.990] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:47.044] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:47.095] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:47.141] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:47.191] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:47.282] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:47.317] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:47.348] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:47.392] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:47.442] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:47.490] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:47.547] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:47.608] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:47.638] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:43:47.697] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/35484, l='ServerLevel[NiditoDeAmor]', x=1292.09, y=12.59, z=1791.64]
-[02Mar2025 08:44:35.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArmandoBroh lost connection: Disconnected
-[02Mar2025 08:44:35.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh left the game
-[02Mar2025 08:44:42.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zafiro_21 lost connection: Disconnected
-[02Mar2025 08:44:42.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 left the game
-[02Mar2025 08:44:47.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[02Mar2025 08:44:47.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[02Mar2025 08:44:47.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[02Mar2025 08:44:48.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NiditoDeAmor]'/minecraft:overworld
-[02Mar2025 08:44:48.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NiditoDeAmor]'/minecraft:the_end
-[02Mar2025 08:44:48.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NiditoDeAmor]'/minecraft:the_nether
-[02Mar2025 08:44:48.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (NiditoDeAmor): All chunks are saved
-[02Mar2025 08:44:48.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02Mar2025 08:44:48.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02Mar2025 08:44:48.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Mar2025 02:34:09.161] [Worker-Main-5/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[08Mar2025 02:34:09.213] [Worker-Main-5/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[08Mar2025 02:34:09.351] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2882 advancements
+[08Mar2025 02:34:09.445] [Worker-Main-5/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 41 Soft Fluids
+[08Mar2025 02:34:09.472] [Worker-Main-5/INFO] [CraftTweaker/]: crafttweaker.reload.start
+[08Mar2025 02:34:10.221] [Worker-Main-5/INFO] [CraftTweaker/]: crafttweaker.reload.complete
+[08Mar2025 02:34:13.061] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
+[08Mar2025 02:34:13.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[08Mar2025 02:34:13.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[08Mar2025 02:34:13.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[08Mar2025 02:34:13.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[08Mar2025 02:34:13.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[08Mar2025 02:34:13.758] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[08Mar2025 02:34:14.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "NiditoDeAmor"
+[08Mar2025 02:34:15.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[08Mar2025 02:34:16.889] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 02:34:16.916] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 02:34:16.932] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 02:34:16.943] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 02:34:17.257] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 02:34:17.862] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 02:34:18.370] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 02:34:18.764] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 02:34:19.256] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 02:34:19.755] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 02:34:20.255] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 02:34:20.755] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Mar2025 02:34:21.254] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[08Mar2025 02:34:21.761] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[08Mar2025 02:34:22.254] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
+[08Mar2025 02:34:22.754] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
+[08Mar2025 02:34:23.263] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
+[08Mar2025 02:34:23.754] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
+[08Mar2025 02:34:24.261] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
+[08Mar2025 02:34:25.071] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9818 ms
+[08Mar2025 02:34:25.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.048s)! For help, type "help"
+[08Mar2025 02:34:25.162] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[08Mar2025 02:34:25.188] [Server thread/INFO] [WTHIT/]: [WTHIT] Plugin config reloaded
+[08Mar2025 02:34:25.195] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=true, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, ICE_DRAGON_CAVE_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=false, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[08Mar2025 02:34:25.195] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=false, TROLL_F=true}
+[08Mar2025 02:36:07.664] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Zafiro_21 is a9ee7dbd-b4e3-4b6a-81da-d9d0562514c7
+[08Mar2025 02:36:10.517] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@60cce2b4
+[08Mar2025 02:36:10.559] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zafiro_21[/127.104.194.155:41879] logged in with entity id 499 at (1277.2340108072915, 68.8500000178814, 795.688820859375)
+[08Mar2025 02:36:10.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 joined the game
+[08Mar2025 02:37:50.487] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ArmandoBroh is b64e39e6-2383-4e94-86b4-832f1820976b
+[08Mar2025 02:37:52.890] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7fee8c7f
+[08Mar2025 02:37:52.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArmandoBroh[/127.231.174.51:41425] logged in with entity id 2895 at (1281.3627438483873, 68.8500000178814, 798.0383728063983)
+[08Mar2025 02:37:52.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh joined the game

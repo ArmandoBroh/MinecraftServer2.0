@@ -1,17 +1,17 @@
-[07:23:34.389][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
-[07:23:34.398][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[07:23:36.068][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
-[07:23:36.072][INFO]: - 'crafttweaker' at version '9.1.211'
-[07:23:36.073][INFO]: - 'farmersdelight' at version '1.18.2-1.2.3'
-[07:23:56.871][INFO]: Started loading scripts for loader 'initialize'
-[07:23:57.928][INFO]: Compiling and executing scripts
-[07:23:58.032][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[07:23:58.298][INFO]: Execution for loader 'initialize' completed successfully
-[07:24:17.463][INFO]: Started loading scripts for loader 'tags'
-[07:24:17.521][INFO]: Compiling and executing scripts
-[07:24:17.554][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[07:24:17.578][INFO]: Execution for loader 'tags' completed successfully
-[07:24:19.965][INFO]: Started loading scripts for loader 'crafttweaker'
-[07:24:20.096][INFO]: Compiling and executing scripts
-[07:24:20.740][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[07:24:20.751][INFO]: Execution for loader 'crafttweaker' completed successfully
+[02:33:22.217][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[02:33:22.222][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[02:33:23.756][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[02:33:23.770][INFO]: - 'crafttweaker' at version '9.1.211'
+[02:33:23.770][INFO]: - 'farmersdelight' at version '1.18.2-1.2.3'
+[02:33:45.925][INFO]: Started loading scripts for loader 'initialize'
+[02:33:46.587][INFO]: Compiling and executing scripts
+[02:33:46.689][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[02:33:46.902][INFO]: Execution for loader 'initialize' completed successfully
+[02:34:06.802][INFO]: Started loading scripts for loader 'tags'
+[02:34:06.875][INFO]: Compiling and executing scripts
+[02:34:06.902][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[02:34:06.925][INFO]: Execution for loader 'tags' completed successfully
+[02:34:09.475][INFO]: Started loading scripts for loader 'crafttweaker'
+[02:34:09.529][INFO]: Compiling and executing scripts
+[02:34:10.181][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[02:34:10.219][INFO]: Execution for loader 'crafttweaker' completed successfully

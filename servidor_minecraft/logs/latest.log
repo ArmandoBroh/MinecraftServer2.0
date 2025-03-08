@@ -963,3 +963,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Mar2025 02:37:52.890] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7fee8c7f
 [08Mar2025 02:37:52.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArmandoBroh[/127.231.174.51:41425] logged in with entity id 2895 at (1281.3627438483873, 68.8500000178814, 798.0383728063983)
 [08Mar2025 02:37:52.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh joined the game
+[08Mar2025 02:52:01.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ArmandoBroh) moved wrongly! 0.35912420279066737
+[08Mar2025 02:52:01.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ArmandoBroh) moved wrongly! 0.7325956407586318
+[08Mar2025 03:00:01.451] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/1751, l='ServerLevel[NiditoDeAmor]', x=1056.65, y=85.75, z=912.10]
+[08Mar2025 03:00:01.452] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/1752, l='ServerLevel[NiditoDeAmor]', x=1058.62, y=85.58, z=912.03]
+[08Mar2025 03:00:01.452] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/1756, l='ServerLevel[NiditoDeAmor]', x=1062.35, y=85.18, z=912.30]
+[08Mar2025 03:06:37.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has reached the goal [Bone Crusher]
+[08Mar2025 03:09:11.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zafiro_21 lost connection: Disconnected
+[08Mar2025 03:09:11.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 left the game
+[08Mar2025 03:11:12.492] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Zafiro_21 is a9ee7dbd-b4e3-4b6a-81da-d9d0562514c7
+[08Mar2025 03:11:15.314] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5d8f615d
+[08Mar2025 03:11:15.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zafiro_21[/127.104.194.155:44221] logged in with entity id 24884 at (698.3000000119209, 68.0, 383.41494944516285)
+[08Mar2025 03:11:15.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 joined the game

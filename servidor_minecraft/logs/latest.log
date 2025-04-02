@@ -966,3 +966,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Apr2025 01:45:55.562] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArmandoBroh[/127.231.174.51:35127] logged in with entity id 1059 at (698.3000000119209, 68.0, 383.30000001192093)
 [02Apr2025 01:45:55.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh joined the game
 [02Apr2025 01:45:55.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has reached the goal [Easter]
+[02Apr2025 02:58:33.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> te amo

@@ -1,27 +1,33 @@
-[08Mar2025 02:33:07.548] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.9, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
-[08Mar2025 02:33:07.553] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.14 by Ubuntu
-[08Mar2025 02:33:07.881] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MinecraftServer2.0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
-[08Mar2025 02:33:08.278] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.9/fmlcore-1.18.2-40.2.9.jar is missing mods.toml file
-[08Mar2025 02:33:08.281] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.9/javafmllanguage-1.18.2-40.2.9.jar is missing mods.toml file
-[08Mar2025 02:33:08.282] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.9/lowcodelanguage-1.18.2-40.2.9.jar is missing mods.toml file
-[08Mar2025 02:33:08.284] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.9/mclanguage-1.18.2-40.2.9.jar is missing mods.toml file
-[08Mar2025 02:33:08.456] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[08Mar2025 02:33:11.480] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[08Mar2025 02:33:11.579] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[08Mar2025 02:33:11.632] [main/WARN] [mixin/]: Reference map 'iammusicplayer-forge-refmap.json' for iammusicplayer.mixins.json could not be read. If this is a development environment you can ignore this message
-[08Mar2025 02:33:11.637] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
-[08Mar2025 02:33:12.633] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
-[08Mar2025 02:33:12.634] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/LocalPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER)
-[08Mar2025 02:33:12.634] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.LocalPlayer was not found playerrevive.mixins.json:LocalPlayerAccessor
-[08Mar2025 02:33:20.700] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[08Mar2025 02:33:20.835] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
-[08Mar2025 02:33:21.762] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[08Mar2025 02:33:21.795] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_sync
-[08Mar2025 02:33:21.796] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_add
-[08Mar2025 02:33:21.797] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_edit
-[08Mar2025 02:33:21.798] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
-[08Mar2025 02:33:21.799] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_add
-[08Mar2025 02:33:21.799] [modloading-worker-0/INFO] [dev.felnull.otyacraftengine.OtyacraftEngine/]: 
+[02Apr2025 01:39:06.958] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.9, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[02Apr2025 01:39:06.964] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.14 by Ubuntu
+[02Apr2025 01:39:08.912] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MinecraftServer2.0/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[02Apr2025 01:39:09.307] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.9/fmlcore-1.18.2-40.2.9.jar is missing mods.toml file
+[02Apr2025 01:39:09.310] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.9/javafmllanguage-1.18.2-40.2.9.jar is missing mods.toml file
+[02Apr2025 01:39:09.311] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.9/lowcodelanguage-1.18.2-40.2.9.jar is missing mods.toml file
+[02Apr2025 01:39:09.312] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.9/mclanguage-1.18.2-40.2.9.jar is missing mods.toml file
+[02Apr2025 01:39:09.515] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[02Apr2025 01:39:12.804] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[02Apr2025 01:39:12.893] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[02Apr2025 01:39:12.935] [main/WARN] [mixin/]: Reference map 'iammusicplayer-forge-refmap.json' for iammusicplayer.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Apr2025 01:39:12.939] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[02Apr2025 01:39:13.982] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[02Apr2025 01:39:13.982] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/LocalPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER)
+[02Apr2025 01:39:13.983] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.LocalPlayer was not found playerrevive.mixins.json:LocalPlayerAccessor
+[02Apr2025 01:39:22.949] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[02Apr2025 01:39:23.034] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[02Apr2025 01:39:23.997] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[02Apr2025 01:39:24.089] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_sync
+[02Apr2025 01:39:24.089] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_add
+[02Apr2025 01:39:24.090] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_edit
+[02Apr2025 01:39:24.090] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
+[02Apr2025 01:39:24.090] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_add
+[02Apr2025 01:39:24.095] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_edit
+[02Apr2025 01:39:24.095] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
+[02Apr2025 01:39:24.096] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_update_result
+[02Apr2025 01:39:24.096] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
+[02Apr2025 01:39:24.097] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:multiple_music_add
+[02Apr2025 01:39:24.097] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
+[02Apr2025 01:39:24.092] [modloading-worker-0/INFO] [dev.felnull.otyacraftengine.OtyacraftEngine/]: 
                      ==     =-
                      ==    ==
                ==    ========     =-
@@ -46,43 +52,37 @@
                     =     ==
                    *=     =+
 
-[08Mar2025 02:33:21.799] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_edit
-[08Mar2025 02:33:21.800] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
-[08Mar2025 02:33:21.815] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_update_result
-[08Mar2025 02:33:21.815] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
-[08Mar2025 02:33:21.815] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:multiple_music_add
-[08Mar2025 02:33:21.816] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
-[08Mar2025 02:33:21.826] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
-[08Mar2025 02:33:21.827] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
-[08Mar2025 02:33:22.034] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.9, for MC 1.18.2 with MCP 20220404.173914
-[08Mar2025 02:33:22.034] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.9 Initialized
-[08Mar2025 02:33:22.358] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[08Mar2025 02:33:43.960] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
-[08Mar2025 02:33:44.822] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[08Mar2025 02:33:44.823] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[08Mar2025 02:33:45.273] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
-[08Mar2025 02:33:45.274] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
-[08Mar2025 02:33:45.384] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[08Mar2025 02:33:45.636] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[08Mar2025 02:33:45.992] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[08Mar2025 02:33:46.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: AHEAD Current: 0.6.11-107 Target: null
-[08Mar2025 02:33:46.569] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[08Mar2025 02:33:46.609] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[08Mar2025 02:33:46.612] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[08Mar2025 02:33:46.632] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 7.7.3 Target: 7.7.6
-[08Mar2025 02:33:46.633] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Starting version check at https://raw.githubusercontent.com/TeamFelnull/OtyacraftEngine/master/version_check.json
-[08Mar2025 02:33:46.647] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Found status: AHEAD Current: 2.14 Target: null
-[08Mar2025 02:33:46.647] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Starting version check at https://raw.githubusercontent.com/TeamFelnull/IamMusicPlayer/master/version_check.json
-[08Mar2025 02:33:46.785] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Found status: UP_TO_DATE Current: 3.16.6 Target: null
-[08Mar2025 02:33:46.786] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.18.2
-[08Mar2025 02:33:47.193] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 110 ms
-[08Mar2025 02:33:47.230] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[08Mar2025 02:33:47.231] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[08Mar2025 02:33:47.232] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[08Mar2025 02:33:47.232] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[08Mar2025 02:33:47.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA_OUTDATED Current: 9.1.211 Target: 9.1.213
-[08Mar2025 02:33:47.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[08Mar2025 02:33:47.283] [modloading-worker-0/ERROR] [WTHIT/]: [WTHIT] Error creating instance of plugin null
+[02Apr2025 01:39:24.128] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
+[02Apr2025 01:39:24.132] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
+[02Apr2025 01:39:24.419] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.9, for MC 1.18.2 with MCP 20220404.173914
+[02Apr2025 01:39:24.419] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.9 Initialized
+[02Apr2025 01:39:24.705] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[02Apr2025 01:39:48.286] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
+[02Apr2025 01:39:49.453] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[02Apr2025 01:39:49.453] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[02Apr2025 01:39:50.052] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+[02Apr2025 01:39:50.053] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+[02Apr2025 01:39:50.164] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[02Apr2025 01:39:50.365] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[02Apr2025 01:39:50.747] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[02Apr2025 01:39:51.241] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: AHEAD Current: 0.6.11-107 Target: null
+[02Apr2025 01:39:51.242] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[02Apr2025 01:39:51.313] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[02Apr2025 01:39:51.324] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[02Apr2025 01:39:51.343] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 7.7.3 Target: 7.7.6
+[02Apr2025 01:39:51.346] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Starting version check at https://raw.githubusercontent.com/TeamFelnull/OtyacraftEngine/master/version_check.json
+[02Apr2025 01:39:51.368] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [otyacraftengine] Found status: AHEAD Current: 2.14 Target: null
+[02Apr2025 01:39:51.368] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Starting version check at https://raw.githubusercontent.com/TeamFelnull/IamMusicPlayer/master/version_check.json
+[02Apr2025 01:39:51.387] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iammusicplayer] Found status: UP_TO_DATE Current: 3.16.6 Target: null
+[02Apr2025 01:39:51.389] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.18.2
+[02Apr2025 01:39:51.935] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 91 ms
+[02Apr2025 01:39:51.961] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA_OUTDATED Current: 9.1.211 Target: 9.1.213
+[02Apr2025 01:39:51.962] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02Apr2025 01:39:51.980] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[02Apr2025 01:39:51.981] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[02Apr2025 01:39:51.986] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[02Apr2025 01:39:51.995] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[02Apr2025 01:39:52.086] [modloading-worker-0/ERROR] [WTHIT/]: [WTHIT] Error creating instance of plugin null
 java.lang.NoClassDefFoundError: mcp/mobius/waila/api/ui/IElement
 	at java.lang.Class.forName0(Native Method) ~[?:?]
 	at java.lang.Class.forName(Class.java:375) ~[?:?]
@@ -111,25 +111,25 @@ Caused by: java.lang.ClassNotFoundException: mcp.mobius.waila.api.ui.IElement
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-1.0.8.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 19 more
-[08Mar2025 02:33:47.300] [modloading-worker-0/INFO] [WTHIT/]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.forge.ForgePlugins.Core
-[08Mar2025 02:33:47.313] [modloading-worker-0/INFO] [WTHIT/]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.forge.ForgePlugins.Vanilla
-[08Mar2025 02:33:47.352] [modloading-worker-0/INFO] [WTHIT/]: [WTHIT] Plugin config reloaded
-[08Mar2025 02:33:47.552] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.9 Target: 40.3.0
-[08Mar2025 02:33:53.100] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[08Mar2025 02:33:56.832] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2377!/assets/.mcassetsroot' uses unexpected schema
-[08Mar2025 02:33:56.832] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2377!/data/.mcassetsroot' uses unexpected schema
-[08Mar2025 02:33:56.982] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 67 ms
-[08Mar2025 02:34:00.537] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[08Mar2025 02:34:00.546] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[08Mar2025 02:34:00.550] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[08Mar2025 02:34:00.551] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[08Mar2025 02:34:00.553] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[08Mar2025 02:34:00.558] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[08Mar2025 02:34:00.559] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[08Mar2025 02:34:00.561] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[08Mar2025 02:34:00.563] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[08Mar2025 02:34:06.953] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
-[08Mar2025 02:34:06.989] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:very_old_cassette_tape
+[02Apr2025 01:39:52.103] [modloading-worker-0/INFO] [WTHIT/]: [WTHIT] Registering plugin waila:core at mcp.mobius.waila.forge.ForgePlugins.Core
+[02Apr2025 01:39:52.118] [modloading-worker-0/INFO] [WTHIT/]: [WTHIT] Registering plugin waila:vanilla at mcp.mobius.waila.forge.ForgePlugins.Vanilla
+[02Apr2025 01:39:52.186] [modloading-worker-0/INFO] [WTHIT/]: [WTHIT] Plugin config reloaded
+[02Apr2025 01:39:52.287] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.9 Target: 40.3.0
+[02Apr2025 01:39:57.738] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02Apr2025 01:40:01.843] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2377!/assets/.mcassetsroot' uses unexpected schema
+[02Apr2025 01:40:01.847] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/MinecraftServer2.0/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2377!/data/.mcassetsroot' uses unexpected schema
+[02Apr2025 01:40:02.047] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 67 ms
+[02Apr2025 01:40:05.841] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02Apr2025 01:40:05.844] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02Apr2025 01:40:05.851] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02Apr2025 01:40:05.853] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02Apr2025 01:40:05.856] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02Apr2025 01:40:05.864] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02Apr2025 01:40:05.867] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02Apr2025 01:40:05.869] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02Apr2025 01:40:05.870] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02Apr2025 01:40:12.087] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
+[02Apr2025 01:40:12.129] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:very_old_cassette_tape
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -172,10 +172,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[08Mar2025 02:34:06.993] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_lantern as it's serializer returned null
-[08Mar2025 02:34:07.005] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_trapdoor as it's serializer returned null
-[08Mar2025 02:34:07.018] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[08Mar2025 02:34:07.044] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:radio_antenna
+[02Apr2025 01:40:12.143] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_lantern as it's serializer returned null
+[02Apr2025 01:40:12.179] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_trapdoor as it's serializer returned null
+[02Apr2025 01:40:12.183] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[02Apr2025 01:40:12.221] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:radio_antenna
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -218,7 +218,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[08Mar2025 02:34:07.046] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_storing
+[02Apr2025 01:40:12.229] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_storing
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -261,7 +261,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[08Mar2025 02:34:07.055] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_deck
+[02Apr2025 01:40:12.250] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_deck
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -304,7 +304,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[08Mar2025 02:34:07.087] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:music_sharing_device
+[02Apr2025 01:40:12.368] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:music_sharing_device
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -347,9 +347,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[08Mar2025 02:34:07.106] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[08Mar2025 02:34:07.111] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_door as it's serializer returned null
-[08Mar2025 02:34:07.124] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:boombox
+[02Apr2025 01:40:12.418] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[02Apr2025 01:40:12.430] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:lead_door as it's serializer returned null
+[02Apr2025 01:40:12.455] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:boombox
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -392,7 +392,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[08Mar2025 02:34:07.145] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:katyou
+[02Apr2025 01:40:12.483] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:katyou
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -435,8 +435,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[08Mar2025 02:34:07.188] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[08Mar2025 02:34:07.208] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:sound_file_uploader
+[02Apr2025 01:40:12.526] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[02Apr2025 01:40:12.549] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:sound_file_uploader
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -479,7 +479,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[08Mar2025 02:34:07.231] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:parabolic_antenna
+[02Apr2025 01:40:12.573] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:parabolic_antenna
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -522,8 +522,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[08Mar2025 02:34:07.233] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb_2 as it's serializer returned null
-[08Mar2025 02:34:07.236] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iammusicplayer:manual
+[02Apr2025 01:40:12.578] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb_2 as it's serializer returned null
+[02Apr2025 01:40:12.579] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iammusicplayer:manual
 com.google.gson.JsonSyntaxException: Unknown item 'iammusicplayer:manual'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:155) ~[forge-1.18.2-40.2.9-universal.jar%2382!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:181) ~[forge-1.18.2-40.2.9-universal.jar%2382!/:?]
@@ -570,7 +570,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iammusicplayer:manual'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[08Mar2025 02:34:07.345] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:old_cassette_tape
+[02Apr2025 01:40:12.607] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:old_cassette_tape
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -613,7 +613,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[08Mar2025 02:34:07.365] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:music_manager
+[02Apr2025 01:40:12.631] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:music_manager
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -656,7 +656,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[08Mar2025 02:34:07.366] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_tape
+[02Apr2025 01:40:12.636] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:cassette_tape
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -699,7 +699,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[08Mar2025 02:34:07.372] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:first_parabolic_antenna
+[02Apr2025 01:40:12.644] [Worker-Main-5/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe emojiful:first_parabolic_antenna
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojiful:emoji_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -742,8 +742,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'emojifu
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[08Mar2025 02:34:07.374] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 25 recipes
-[08Mar2025 02:34:08.139] [Worker-Main-5/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table unusualfishmod:entities/gnasher
+[02Apr2025 01:40:12.654] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 25 recipes
+[02Apr2025 01:40:13.603] [Worker-Main-5/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table unusualfishmod:entities/gnasher
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'ladsmobs:depth_essence'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -829,7 +829,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[08Mar2025 02:34:08.761] [Worker-Main-5/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table unusualfishmod:entities/rootball
+[02Apr2025 01:40:14.105] [Worker-Main-5/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table unusualfishmod:entities/rootball
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'ladsmobs:bloom_essence'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -915,79 +915,54 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[08Mar2025 02:34:09.161] [Worker-Main-5/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[08Mar2025 02:34:09.213] [Worker-Main-5/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[08Mar2025 02:34:09.351] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2882 advancements
-[08Mar2025 02:34:09.445] [Worker-Main-5/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 41 Soft Fluids
-[08Mar2025 02:34:09.472] [Worker-Main-5/INFO] [CraftTweaker/]: crafttweaker.reload.start
-[08Mar2025 02:34:10.221] [Worker-Main-5/INFO] [CraftTweaker/]: crafttweaker.reload.complete
-[08Mar2025 02:34:13.061] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
-[08Mar2025 02:34:13.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[08Mar2025 02:34:13.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[08Mar2025 02:34:13.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[08Mar2025 02:34:13.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[08Mar2025 02:34:13.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[08Mar2025 02:34:13.758] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[08Mar2025 02:34:14.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "NiditoDeAmor"
-[08Mar2025 02:34:15.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[08Mar2025 02:34:16.889] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 02:34:16.916] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 02:34:16.932] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 02:34:16.943] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 02:34:17.257] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 02:34:17.862] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 02:34:18.370] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 02:34:18.764] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 02:34:19.256] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 02:34:19.755] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 02:34:20.255] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 02:34:20.755] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Mar2025 02:34:21.254] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[08Mar2025 02:34:21.761] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[08Mar2025 02:34:22.254] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
-[08Mar2025 02:34:22.754] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
-[08Mar2025 02:34:23.263] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
-[08Mar2025 02:34:23.754] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
-[08Mar2025 02:34:24.261] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
-[08Mar2025 02:34:25.071] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9818 ms
-[08Mar2025 02:34:25.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.048s)! For help, type "help"
-[08Mar2025 02:34:25.162] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[08Mar2025 02:34:25.188] [Server thread/INFO] [WTHIT/]: [WTHIT] Plugin config reloaded
-[08Mar2025 02:34:25.195] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=true, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, ICE_DRAGON_CAVE_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=false, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
-[08Mar2025 02:34:25.195] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=false, TROLL_F=true}
-[08Mar2025 02:36:07.664] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Zafiro_21 is a9ee7dbd-b4e3-4b6a-81da-d9d0562514c7
-[08Mar2025 02:36:10.517] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@60cce2b4
-[08Mar2025 02:36:10.559] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zafiro_21[/127.104.194.155:41879] logged in with entity id 499 at (1277.2340108072915, 68.8500000178814, 795.688820859375)
-[08Mar2025 02:36:10.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 joined the game
-[08Mar2025 02:37:50.487] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ArmandoBroh is b64e39e6-2383-4e94-86b4-832f1820976b
-[08Mar2025 02:37:52.890] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7fee8c7f
-[08Mar2025 02:37:52.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArmandoBroh[/127.231.174.51:41425] logged in with entity id 2895 at (1281.3627438483873, 68.8500000178814, 798.0383728063983)
-[08Mar2025 02:37:52.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh joined the game
-[08Mar2025 02:52:01.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ArmandoBroh) moved wrongly! 0.35912420279066737
-[08Mar2025 02:52:01.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ArmandoBroh) moved wrongly! 0.7325956407586318
-[08Mar2025 03:00:01.451] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/1751, l='ServerLevel[NiditoDeAmor]', x=1056.65, y=85.75, z=912.10]
-[08Mar2025 03:00:01.452] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/1752, l='ServerLevel[NiditoDeAmor]', x=1058.62, y=85.58, z=912.03]
-[08Mar2025 03:00:01.452] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/1756, l='ServerLevel[NiditoDeAmor]', x=1062.35, y=85.18, z=912.30]
-[08Mar2025 03:06:37.944] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has reached the goal [Bone Crusher]
-[08Mar2025 03:09:11.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zafiro_21 lost connection: Disconnected
-[08Mar2025 03:09:11.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 left the game
-[08Mar2025 03:11:12.492] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Zafiro_21 is a9ee7dbd-b4e3-4b6a-81da-d9d0562514c7
-[08Mar2025 03:11:15.314] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5d8f615d
-[08Mar2025 03:11:15.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zafiro_21[/127.104.194.155:44221] logged in with entity id 24884 at (698.3000000119209, 68.0, 383.41494944516285)
-[08Mar2025 03:11:15.331] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 joined the game
-[08Mar2025 03:19:43.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has reached the goal [Die Classy]
-[08Mar2025 03:38:57.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zafiro_21 lost connection: Disconnected
-[08Mar2025 03:38:57.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 left the game
-[08Mar2025 03:39:15.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArmandoBroh lost connection: Disconnected
-[08Mar2025 03:39:15.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh left the game
-[08Mar2025 03:39:34.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[08Mar2025 03:39:34.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[08Mar2025 03:39:34.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[08Mar2025 03:39:34.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[08Mar2025 03:39:35.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NiditoDeAmor]'/minecraft:overworld
-[08Mar2025 03:39:35.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NiditoDeAmor]'/minecraft:the_nether
-[08Mar2025 03:39:35.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NiditoDeAmor]'/minecraft:the_end
-[08Mar2025 03:39:35.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (NiditoDeAmor): All chunks are saved
-[08Mar2025 03:39:35.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08Mar2025 03:39:35.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08Mar2025 03:39:35.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Apr2025 01:40:14.574] [Worker-Main-5/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[02Apr2025 01:40:14.622] [Worker-Main-5/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[02Apr2025 01:40:14.766] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2882 advancements
+[02Apr2025 01:40:14.823] [Worker-Main-5/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 41 Soft Fluids
+[02Apr2025 01:40:14.852] [Worker-Main-5/INFO] [CraftTweaker/]: crafttweaker.reload.start
+[02Apr2025 01:40:15.643] [Worker-Main-5/INFO] [CraftTweaker/]: crafttweaker.reload.complete
+[02Apr2025 01:40:18.462] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
+[02Apr2025 01:40:18.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[02Apr2025 01:40:18.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02Apr2025 01:40:18.886] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02Apr2025 01:40:18.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02Apr2025 01:40:19.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[02Apr2025 01:40:19.191] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[02Apr2025 01:40:19.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "NiditoDeAmor"
+[02Apr2025 01:40:20.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02Apr2025 01:40:22.774] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Apr2025 01:40:22.798] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Apr2025 01:40:22.823] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Apr2025 01:40:22.889] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Apr2025 01:40:22.919] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Apr2025 01:40:23.057] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Apr2025 01:40:23.644] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Apr2025 01:40:24.055] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Apr2025 01:40:24.554] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Apr2025 01:40:25.098] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Apr2025 01:40:25.555] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Apr2025 01:40:26.055] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Apr2025 01:40:26.557] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[02Apr2025 01:40:27.055] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[02Apr2025 01:40:27.557] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
+[02Apr2025 01:40:28.054] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[02Apr2025 01:40:28.555] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[02Apr2025 01:40:29.054] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[02Apr2025 01:40:29.556] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
+[02Apr2025 01:40:30.054] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 76%
+[02Apr2025 01:40:30.862] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10309 ms
+[02Apr2025 01:40:30.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.467s)! For help, type "help"
+[02Apr2025 01:40:30.947] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02Apr2025 01:40:30.961] [Server thread/INFO] [WTHIT/]: [WTHIT] Plugin config reloaded
+[02Apr2025 01:40:30.965] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {SPAWN_DRAGON_SKELETON_I_CF=true, HYDRA_CAVE_CF=true, SPAWN_SEA_SERPENT_CF=true, SPAWN_STYMPHALIAN_BIRD_CF=true, SPAWN_WANDERING_CYCLOPS_CF=true, PIXIE_VILLAGE_CF=true, SPAWN_DEATH_WORM_CF=true, FIRE_DRAGON_CAVE_CF=true, SIREN_ISLAND_CF=true, MYRMEX_HIVE_DESERT_CF=true, SPAWN_HIPPOCAMPUS_CF=true, FIRE_DRAGON_ROOST_CF=true, MYRMEX_HIVE_JUNGLE_CF=true, COPPER_ORE_CF=true, SILVER_ORE_CF=true, LIGHTNING_DRAGON_CAVE_CF=true, SPAWN_DRAGON_SKELETON_F_CF=true, AMETHYST_ORE_CF=true, SPAWN_DRAGON_SKELETON_L_CF=true, LIGHTNING_LILY_CF=true, ICE_DRAGON_CAVE_CF=true, SAPPHIRE_ORE_CF=true, LIGHTNING_DRAGON_ROOST_CF=true, CYCLOPS_CAVE_CF=false, FROST_LILY_CF=true, FIRE_LILY_CF=true, ICE_DRAGON_ROOST_CF=true}
+[02Apr2025 01:40:30.966] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=false, TROLL_F=true}
+[02Apr2025 01:45:13.914] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Zafiro_21 is a9ee7dbd-b4e3-4b6a-81da-d9d0562514c7
+[02Apr2025 01:45:16.887] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7a423110
+[02Apr2025 01:45:16.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zafiro_21[/127.177.97.51:55193] logged in with entity id 498 at (698.465379030433, 68.0, 383.8872682820735)
+[02Apr2025 01:45:16.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 joined the game
+[02Apr2025 01:45:17.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 has reached the goal [Easter]
+[02Apr2025 01:45:53.118] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ArmandoBroh is b64e39e6-2383-4e94-86b4-832f1820976b
+[02Apr2025 01:45:55.502] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@524d618b
+[02Apr2025 01:45:55.562] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArmandoBroh[/127.231.174.51:35127] logged in with entity id 1059 at (698.3000000119209, 68.0, 383.30000001192093)
+[02Apr2025 01:45:55.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh joined the game
+[02Apr2025 01:45:55.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has reached the goal [Easter]

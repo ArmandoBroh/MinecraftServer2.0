@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/easter": {
+    "criteria": {
+      "coded_trigger": "2025-04-02 01:45:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2024-11-08 05:23:38 +0000"

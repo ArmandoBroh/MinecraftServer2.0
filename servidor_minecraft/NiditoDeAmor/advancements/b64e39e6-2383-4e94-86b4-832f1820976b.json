@@ -3663,6 +3663,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "kelp": "2025-04-02 03:16:36 +0000",
       "sugar_cane": "2024-11-19 07:26:13 +0000",
       "wheat": "2024-11-08 05:21:45 +0000"
     },

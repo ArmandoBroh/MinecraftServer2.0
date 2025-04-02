@@ -975,3 +975,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Apr2025 03:35:32.348] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zafiro_21[/127.177.97.51:58239] logged in with entity id 51824 at (813.5046656312215, -5.987284142495248, 338.9064193165345)
 [02Apr2025 03:35:32.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 joined the game
 [02Apr2025 03:40:34.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 has made the advancement [Easter Egg Searcher]
+[02Apr2025 03:55:05.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh is bleeding. ArmandoBroh fell from a high place
+[02Apr2025 03:55:05.711] [Server thread/WARN] [tombstone/]: The death event of the player ArmandoBroh was canceled by another mod
+[02Apr2025 03:55:05.711] [Server thread/INFO] [tombstone/]: The player ArmandoBroh has successfully been saved

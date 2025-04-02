@@ -974,3 +974,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Apr2025 03:35:32.337] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@125be1b1
 [02Apr2025 03:35:32.348] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zafiro_21[/127.177.97.51:58239] logged in with entity id 51824 at (813.5046656312215, -5.987284142495248, 338.9064193165345)
 [02Apr2025 03:35:32.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 joined the game
+[02Apr2025 03:40:34.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 has made the advancement [Easter Egg Searcher]

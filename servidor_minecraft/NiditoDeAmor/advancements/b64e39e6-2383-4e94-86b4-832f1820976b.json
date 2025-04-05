@@ -737,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-05 23:35:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-11-08 02:50:55 +0000"
@@ -931,7 +937,8 @@
       "minecraft:creeper": "2024-11-08 05:12:58 +0000",
       "minecraft:husk": "2024-11-08 03:12:28 +0000",
       "minecraft:silverfish": "2024-11-08 05:42:26 +0000",
-      "minecraft:zombie": "2024-11-08 02:41:15 +0000"
+      "minecraft:zombie": "2024-11-08 02:41:15 +0000",
+      "minecraft:drowned": "2025-04-05 23:22:56 +0000"
     },
     "done": false
   },
@@ -2053,6 +2060,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-05 23:37:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-11-08 04:36:45 +0000"
@@ -2236,6 +2249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-04-05 23:37:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2024-11-19 07:33:03 +0000"
@@ -2299,6 +2318,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-11-08 02:50:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-04-05 23:37:10 +0000"
     },
     "done": true
   },

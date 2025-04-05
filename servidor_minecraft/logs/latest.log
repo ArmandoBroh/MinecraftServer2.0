@@ -965,3 +965,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Apr2025 22:13:37.448] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zafiro_21[/127.177.97.51:56041] logged in with entity id 998 at (816.8416101339594, 5.0, 327.92092240345664)
 [05Apr2025 22:13:37.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 joined the game
 [05Apr2025 22:14:00.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> oa
+[05Apr2025 22:14:35.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 has reached the goal [Bone Crusher]
+[05Apr2025 22:15:16.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> ola
+[05Apr2025 22:15:26.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> vamos a disc?
+[05Apr2025 22:15:30.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> o no queres
+[05Apr2025 22:16:03.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> te conteste
+[05Apr2025 22:16:09.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> por ws
+[05Apr2025 22:16:16.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> buuh eso que
+[05Apr2025 22:17:09.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> que?
+[05Apr2025 22:17:16.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> voy a la casa
+[05Apr2025 22:17:21.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> me dices que si quiero
+[05Apr2025 22:17:28.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> puesi
+[05Apr2025 22:17:32.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> ach
+[05Apr2025 22:17:33.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> si quieres si
+[05Apr2025 22:17:42.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> tu quieres?
+[05Apr2025 22:18:31.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> eyyy
+[05Apr2025 22:18:36.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> si tu quiere si
+[05Apr2025 22:18:44.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> ashh
+[05Apr2025 22:18:52.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> olvidalo mejor
+[05Apr2025 22:19:18.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> espera
+[05Apr2025 22:19:21.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zafiro_21 lost connection: Disconnected
+[05Apr2025 22:19:21.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 left the game

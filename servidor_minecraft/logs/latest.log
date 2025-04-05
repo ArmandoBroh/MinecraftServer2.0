@@ -986,3 +986,59 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Apr2025 22:19:18.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> espera
 [05Apr2025 22:19:21.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zafiro_21 lost connection: Disconnected
 [05Apr2025 22:19:21.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 left the game
+[05Apr2025 22:25:12.555] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Zafiro_21 is a9ee7dbd-b4e3-4b6a-81da-d9d0562514c7
+[05Apr2025 22:25:15.730] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3ea005a1
+[05Apr2025 22:25:15.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zafiro_21[/127.177.97.51:40121] logged in with entity id 5357 at (812.0412944882121, 67.0, 324.93696341290513)
+[05Apr2025 22:25:15.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 joined the game
+[05Apr2025 22:25:30.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> volvi
+[05Apr2025 22:25:32.520] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> ontas
+[05Apr2025 22:25:38.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> ah oa
+[05Apr2025 22:25:43.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> vamos a la casa pues
+[05Apr2025 22:26:12.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> mimir
+[05Apr2025 22:27:19.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> por que lo quitas
+[05Apr2025 22:29:00.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> eyyyyy
+[05Apr2025 22:29:46.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> ve a la casa
+[05Apr2025 22:29:50.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> ahorita te alcanzp
+[05Apr2025 22:29:52.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> no puedo
+[05Apr2025 22:29:55.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> no se donde es
+[05Apr2025 22:30:01.729] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> upsi
+[05Apr2025 22:30:09.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> xaero-waypoint:Casa:C:1433:67:1693:9:false:0:Internal-overworld-waypoints
+[05Apr2025 22:30:12.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> ahi esta
+[05Apr2025 22:30:26.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> meno
+[05Apr2025 22:30:32.003] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> y por que voy sola?
+[05Apr2025 22:30:34.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> :c
+[05Apr2025 22:30:41.183] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> pues me andas pegando
+[05Apr2025 22:30:47.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> y si andas desesperada
+[05Apr2025 22:30:49.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> pues ve
+[05Apr2025 22:30:49.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> pero es que no me haces caso
+[05Apr2025 22:30:55.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> por eso te pego
+[05Apr2025 22:31:02.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> pero no me dices nada
+[05Apr2025 22:31:06.996] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> sii
+[05Apr2025 22:31:14.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> te dije que porque quitas el letrero
+[05Apr2025 22:31:24.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> por que quiero escribir algo
+[05Apr2025 22:31:25.347] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> y solo estas parado ahi
+[05Apr2025 22:31:27.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> por eso
+[05Apr2025 22:31:36.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> meno
+[05Apr2025 22:34:46.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> y que quieres escribir?
+[05Apr2025 22:37:04.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> VAMONOS
+[05Apr2025 22:37:28.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> ontas
+[05Apr2025 22:38:05.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> mi camita
+[05Apr2025 22:38:14.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> fuchi
+[05Apr2025 22:38:17.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> olia feo
+[05Apr2025 22:41:34.950] [IO-Worker-45/ERROR] [net.minecraft.world.level.chunk.storage.IOWorker/]: Failed to store chunk [-3, -8]
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1597) ~[?:?]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1620) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:132) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:265) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:234) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_63708_(RegionFileStorage.java:79) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63535_(IOWorker.java:174) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63553_(IOWorker.java:164) ~[server-1.18.2-20220404.173914-srg.jar%2377!/:?]
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:59) [server-1.18.2-20220404.173914-srg.jar%2377!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) [server-1.18.2-20220404.173914-srg.jar%2377!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) [server-1.18.2-20220404.173914-srg.jar%2377!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) [server-1.18.2-20220404.173914-srg.jar%2377!/:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) [?:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]

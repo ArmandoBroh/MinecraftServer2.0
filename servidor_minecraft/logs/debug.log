@@ -7251,3 +7251,9 @@ java.util.ConcurrentModificationException: null
 [06Apr2025 00:24:36.925] [Server thread/DEBUG] [mixin/]: Mixing jei.MixinRecipeTransferUtil from polymorph_integrations.mixins.json into mezz.jei.common.transfer.RecipeTransferUtil
 [06Apr2025 00:24:36.925] [Server thread/DEBUG] [mixin/]: polymorph_integrations.mixins.json:jei.MixinRecipeTransferUtil: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
 [06Apr2025 00:24:38.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has reached the goal [A Small Cemetery]
+[06Apr2025 00:26:14.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[06Apr2025 00:26:14.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[06Apr2025 00:31:14.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[06Apr2025 00:31:14.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[06Apr2025 00:36:14.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[06Apr2025 00:36:14.983] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor

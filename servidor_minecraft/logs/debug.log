@@ -7436,3 +7436,8 @@ java.util.ConcurrentModificationException: null
 [06Apr2025 01:35:15.821] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/14710, l='ServerLevel[NiditoDeAmor]', x=1410.30, y=66.00, z=1671.70] died, message: 'Leatherworker was slain by Zombie'
 [06Apr2025 01:36:14.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
 [06Apr2025 01:36:14.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[06Apr2025 01:41:14.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[06Apr2025 01:41:14.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[06Apr2025 01:45:00.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> ya vengo
+[06Apr2025 01:46:14.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[06Apr2025 01:46:14.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor

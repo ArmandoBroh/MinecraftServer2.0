@@ -120,3 +120,5 @@
 [06Apr2025 00:44:39.029] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2c6251f9
 [06Apr2025 00:44:39.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zafiro_21[/127.177.97.51:41469] logged in with entity id 95637 at (1066.2555238997559, 64.0, 1903.0335715898939)
 [06Apr2025 00:44:39.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 joined the game
+[06Apr2025 01:02:29.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has reached the goal [A self-respecting Soul]
+[06Apr2025 01:06:06.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has made the advancement [Neighborhood Brawl]

@@ -545,6 +545,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-04-06 01:18:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-03-08 02:53:58 +0000"
@@ -1128,6 +1134,12 @@
   "comforts:hammock_white": {
     "criteria": {
       "has_white_wool": "2024-11-08 05:23:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-06 01:18:58 +0000"
     },
     "done": true
   },
@@ -1918,6 +1930,12 @@
   "create:recipes/create.palettes/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-11-12 06:01:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-06 01:18:58 +0000"
     },
     "done": true
   },
@@ -3541,6 +3559,12 @@
   "create:recipes/create.palettes/cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-11-12 06:01:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
+    "criteria": {
+      "has_the_recipe": "2025-04-06 01:22:53 +0000"
     },
     "done": true
   },

@@ -124,3 +124,4 @@
 [06Apr2025 01:06:06.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has made the advancement [Neighborhood Brawl]
 [06Apr2025 01:26:23.821] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/15171, l='ServerLevel[NiditoDeAmor]', x=1417.17, y=63.00, z=1684.50] died, message: 'Villager was slain by Zombie'
 [06Apr2025 01:26:52.027] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/107533, l='ServerLevel[NiditoDeAmor]', x=1409.53, y=65.00, z=1669.53] died, message: 'Villager was slain by Zombie'
+[06Apr2025 01:35:15.821] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/14710, l='ServerLevel[NiditoDeAmor]', x=1410.30, y=66.00, z=1671.70] died, message: 'Leatherworker was slain by Zombie'

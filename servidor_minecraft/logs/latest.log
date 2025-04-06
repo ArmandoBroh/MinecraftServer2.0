@@ -126,3 +126,17 @@
 [06Apr2025 01:26:52.027] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/107533, l='ServerLevel[NiditoDeAmor]', x=1409.53, y=65.00, z=1669.53] died, message: 'Villager was slain by Zombie'
 [06Apr2025 01:35:15.821] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/14710, l='ServerLevel[NiditoDeAmor]', x=1410.30, y=66.00, z=1671.70] died, message: 'Leatherworker was slain by Zombie'
 [06Apr2025 01:45:00.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> ya vengo
+[06Apr2025 01:50:48.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zafiro_21 lost connection: Disconnected
+[06Apr2025 01:50:48.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 left the game
+[06Apr2025 01:50:50.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArmandoBroh lost connection: Disconnected
+[06Apr2025 01:50:50.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh left the game
+[06Apr2025 01:51:05.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Apr2025 01:51:05.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Apr2025 01:51:05.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Apr2025 01:51:06.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NiditoDeAmor]'/minecraft:overworld
+[06Apr2025 01:51:06.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NiditoDeAmor]'/minecraft:the_end
+[06Apr2025 01:51:06.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[NiditoDeAmor]'/minecraft:the_nether
+[06Apr2025 01:51:06.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (NiditoDeAmor): All chunks are saved
+[06Apr2025 01:51:06.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Apr2025 01:51:06.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Apr2025 01:51:06.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

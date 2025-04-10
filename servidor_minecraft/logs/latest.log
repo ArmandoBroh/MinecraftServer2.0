@@ -1952,3 +1952,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Apr2025 04:40:25.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> dread
 [10Apr2025 04:40:31.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> wood
 [10Apr2025 04:46:53.082] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/82878, l='ServerLevel[NiditoDeAmor]', x=1414.62, y=64.25, z=1683.30] died, message: 'Leatherworker was slain by Zombie'
+[10Apr2025 04:55:29.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has completed the challenge [Free Willy]
+[10Apr2025 04:59:38.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zafiro_21) moved wrongly! 0.3463161392051006
+[10Apr2025 04:59:39.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zafiro_21) moved wrongly! 0.5476525266353747
+[10Apr2025 04:59:39.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zafiro_21) moved wrongly! 0.8874995780238351

@@ -12845,3 +12845,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Apr2025 06:02:24.982] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/151239, l='ServerLevel[NiditoDeAmor]', x=1293.30, y=8.92, z=1810.96]
 [10Apr2025 06:02:25.030] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/151239, l='ServerLevel[NiditoDeAmor]', x=1293.30, y=8.92, z=1810.96]
 [10Apr2025 06:02:25.113] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/151239, l='ServerLevel[NiditoDeAmor]', x=1293.30, y=8.92, z=1810.96]
+[10Apr2025 06:02:37.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh is bleeding. ArmandoBroh was slain by Ghost
+[10Apr2025 06:02:37.568] [Server thread/WARN] [tombstone/]: The death event of the player ArmandoBroh was canceled by another mod
+[10Apr2025 06:02:37.572] [Server thread/INFO] [tombstone/]: The player ArmandoBroh has successfully been saved
+[10Apr2025 06:02:52.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 has made the advancement [Who You Gonna Call?]
+[10Apr2025 06:04:00.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ArmandoBroh) moved wrongly! 0.36575938089049487
+[10Apr2025 06:05:37.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[10Apr2025 06:05:37.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[10Apr2025 06:10:37.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[10Apr2025 06:10:37.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor

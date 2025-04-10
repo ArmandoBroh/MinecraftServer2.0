@@ -6949,3 +6949,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Apr2025 03:00:37.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
 [10Apr2025 03:05:37.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
 [10Apr2025 03:05:37.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[10Apr2025 03:10:37.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[10Apr2025 03:10:37.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[10Apr2025 03:15:37.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[10Apr2025 03:15:37.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor

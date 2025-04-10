@@ -6698,3 +6698,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Apr2025 06:02:37.572] [Server thread/INFO] [tombstone/]: The player ArmandoBroh has successfully been saved
 [10Apr2025 06:02:52.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 has made the advancement [Who You Gonna Call?]
 [10Apr2025 06:04:00.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ArmandoBroh) moved wrongly! 0.36575938089049487
+[10Apr2025 06:23:12.874] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zafiro_21 lost connection: Disconnected
+[10Apr2025 06:23:12.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 left the game
+[10Apr2025 06:24:05.248] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Zafiro_21 is a9ee7dbd-b4e3-4b6a-81da-d9d0562514c7
+[10Apr2025 06:24:05.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArmandoBroh lost connection: Disconnected
+[10Apr2025 06:24:05.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh left the game
+[10Apr2025 06:24:08.571] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2b25073d
+[10Apr2025 06:24:08.579] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zafiro_21[/127.177.97.51:32861] logged in with entity id 165353 at (2191.084817797007, 64.0, 288.69999998807907)
+[10Apr2025 06:24:08.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 joined the game
+[10Apr2025 06:24:18.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zafiro_21 lost connection: Disconnected
+[10Apr2025 06:24:18.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 left the game

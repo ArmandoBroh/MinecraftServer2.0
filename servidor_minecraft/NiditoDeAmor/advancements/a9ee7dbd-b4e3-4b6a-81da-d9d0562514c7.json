@@ -3798,6 +3798,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-10 06:18:41 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_minecraft/acacia": {
     "criteria": {
       "has_plank": "2024-11-10 07:39:01 +0000"
@@ -3952,6 +3958,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-02 02:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-10 06:18:41 +0000"
     },
     "done": true
   },

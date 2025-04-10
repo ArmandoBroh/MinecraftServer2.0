@@ -1016,3 +1016,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Apr2025 01:56:50.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> ahí espero termines tu granja
 [10Apr2025 01:58:13.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zafiro_21 lost connection: Disconnected
 [10Apr2025 01:58:13.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 left the game
+[10Apr2025 02:57:08.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ArmandoBroh: Set own game mode to Creative Mode]
+[10Apr2025 02:58:10.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ArmandoBroh: Set own game mode to Survival Mode]

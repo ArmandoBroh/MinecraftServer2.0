@@ -6939,3 +6939,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Apr2025 02:40:37.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
 [10Apr2025 02:45:37.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
 [10Apr2025 02:45:37.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[10Apr2025 02:50:37.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[10Apr2025 02:50:37.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[10Apr2025 02:55:37.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[10Apr2025 02:55:37.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[10Apr2025 02:57:08.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ArmandoBroh: Set own game mode to Creative Mode]
+[10Apr2025 02:58:10.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ArmandoBroh: Set own game mode to Survival Mode]

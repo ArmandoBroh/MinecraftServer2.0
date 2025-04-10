@@ -1949,3 +1949,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Apr2025 04:23:42.232] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/74782, l='ServerLevel[NiditoDeAmor]', x=1288.39, y=12.81, z=1794.55]
 [10Apr2025 04:23:42.232] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/74785, l='ServerLevel[NiditoDeAmor]', x=1292.47, y=10.87, z=1806.66]
 [10Apr2025 04:23:42.233] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/74786, l='ServerLevel[NiditoDeAmor]', x=1293.30, y=8.92, z=1810.96]
+[10Apr2025 04:40:25.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> dread
+[10Apr2025 04:40:31.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> wood

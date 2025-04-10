@@ -1956,3 +1956,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Apr2025 04:59:38.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zafiro_21) moved wrongly! 0.3463161392051006
 [10Apr2025 04:59:39.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zafiro_21) moved wrongly! 0.5476525266353747
 [10Apr2025 04:59:39.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zafiro_21) moved wrongly! 0.8874995780238351
+[10Apr2025 05:06:36.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> xaero-waypoint:Caballo:C:1639:67:1962:15:false:0:Internal-overworld-waypoints

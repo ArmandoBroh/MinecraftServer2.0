@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-04-10 05:01:03 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/golden_basic_shield": {
     "criteria": {
       "has_gold_ingot": "2024-11-08 03:25:55 +0000"
@@ -910,6 +916,7 @@
       "minecraft:skeleton": "2024-11-08 04:56:13 +0000",
       "minecraft:spider": "2024-11-08 07:33:23 +0000",
       "minecraft:creeper": "2024-11-19 04:51:06 +0000",
+      "minecraft:husk": "2025-04-10 05:05:21 +0000",
       "minecraft:silverfish": "2024-11-08 05:42:50 +0000",
       "minecraft:zombie": "2024-11-08 05:41:56 +0000",
       "minecraft:drowned": "2025-04-10 03:57:56 +0000",
@@ -1172,6 +1179,12 @@
   "alexsmobs:recipes/decorations/hummingbird_feeder": {
     "criteria": {
       "has_items": "2024-11-08 08:11:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-04-10 05:01:03 +0000"
     },
     "done": true
   },
@@ -4467,6 +4480,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2024-11-19 07:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-04-10 05:01:03 +0000"
     },
     "done": true
   },

@@ -906,7 +906,8 @@
       "minecraft:creeper": "2024-11-19 04:51:06 +0000",
       "minecraft:silverfish": "2024-11-08 05:42:50 +0000",
       "minecraft:zombie": "2024-11-08 05:41:56 +0000",
-      "minecraft:drowned": "2025-04-10 03:57:56 +0000"
+      "minecraft:drowned": "2025-04-10 03:57:56 +0000",
+      "minecraft:zombie_villager": "2025-04-10 04:50:32 +0000"
     },
     "done": false
   },
@@ -1279,6 +1280,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
     "criteria": {
       "has_backpack": "2024-11-10 08:42:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-04-10 04:48:59 +0000"
     },
     "done": true
   },
@@ -2447,6 +2454,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-04-10 04:48:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-11-08 05:23:38 +0000"
@@ -3470,6 +3483,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-04-10 04:47:09 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2024-11-12 07:46:39 +0000"
@@ -3677,6 +3696,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-04-10 04:48:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-11-10 07:49:15 +0000"
@@ -3794,6 +3819,12 @@
   "create:recipes/create.palettes/layered_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-11-10 07:49:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-04-10 04:48:59 +0000"
     },
     "done": true
   },

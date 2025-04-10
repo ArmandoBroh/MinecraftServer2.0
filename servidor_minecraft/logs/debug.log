@@ -6896,3 +6896,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Apr2025 01:48:22.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> wao..
 [10Apr2025 01:48:51.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> ouch
 [10Apr2025 01:48:59.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> para eso querias jugar
+[10Apr2025 01:49:07.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> mejor juega solo como dices
+[10Apr2025 01:49:25.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> eh?
+[10Apr2025 01:50:28.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> de hecho habiamos dicho que no y luego si
+[10Apr2025 01:50:32.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> por la dificultad
+[10Apr2025 01:50:37.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[10Apr2025 01:50:37.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[10Apr2025 01:50:57.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> en realidad dijiste tu que no, yo si quería irme, pero ya me respondiste así que gracias
+[10Apr2025 01:51:23.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> quiza no recuerdas
+[10Apr2025 01:51:38.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> aunque asi fuera no era para responderme así Armando
+[10Apr2025 01:52:00.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> pero te habia dicho que lo mejor seria quitar todo y quedarnos era dificil mover todo y complicado y no tenenemos para movernos
+[10Apr2025 01:52:09.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> si, recuerdo eso
+[10Apr2025 01:52:14.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> pues te quejaste
+[10Apr2025 01:52:21.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> y si hay queja
+[10Apr2025 01:52:23.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> que te digo
+[10Apr2025 01:52:44.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> sisi, seguramente fue la mejor respuesta que me pudiste dar
+[10Apr2025 01:52:54.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> bueno
+[10Apr2025 01:55:37.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[10Apr2025 01:55:37.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[10Apr2025 01:55:40.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> bueno que?
+[10Apr2025 01:56:40.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> ya no quiero jugar la verdad
+[10Apr2025 01:56:50.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> ahí espero termines tu granja
+[10Apr2025 01:58:13.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zafiro_21 lost connection: Disconnected
+[10Apr2025 01:58:13.882] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 left the game

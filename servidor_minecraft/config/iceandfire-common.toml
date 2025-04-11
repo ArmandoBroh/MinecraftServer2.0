@@ -148,7 +148,7 @@
 
 	[Mobs.Pixies]
 		#True if pixie villages are allowed to spawn
-		"Spawn Pixies" = true
+		"Spawn Pixies" = false
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
 		"Spawn Pixies Chance" = 60

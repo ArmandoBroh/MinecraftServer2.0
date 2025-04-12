@@ -967,3 +967,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 00:37:15.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zafiro_21[/127.177.97.51:46639] logged in with entity id 1809 at (1434.799464543487, 63.5625, 1690.2617744335653)
 [12Apr2025 00:37:15.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 joined the game
 [12Apr2025 00:50:52.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has reached the goal [Greed may lead to loss]
+[12Apr2025 00:54:26.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has reached the goal [Home Sweet Home]
+[12Apr2025 00:54:35.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 has reached the goal [Home Sweet Home]

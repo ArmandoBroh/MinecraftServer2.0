@@ -1035,3 +1035,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 05:46:05.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ArmandoBroh) moved wrongly! 0.92940362311424
 [12Apr2025 05:46:05.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of ArmandoBroh) moved wrongly! 1.3787314080645956
 [12Apr2025 05:50:14.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has made the advancement [Bonfire Lit]
+[12Apr2025 06:15:14.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has made the advancement [Total Beelocation]

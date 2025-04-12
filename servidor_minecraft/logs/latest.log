@@ -2734,3 +2734,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 01:21:33.431] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/21235, l='ServerLevel[NiditoDeAmor]', x=1536.20, y=67.41, z=1646.72]
 [12Apr2025 01:21:33.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zafiro_21 lost connection: Disconnected
 [12Apr2025 01:21:33.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 left the game
+[12Apr2025 01:27:15.228] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Zafiro_21 is a9ee7dbd-b4e3-4b6a-81da-d9d0562514c7
+[12Apr2025 01:27:18.297] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5ebc8a91
+[12Apr2025 01:27:18.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zafiro_21[/127.177.97.51:34291] logged in with entity id 24912 at (1435.5, 63.5625, 1690.5)
+[12Apr2025 01:27:18.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 joined the game

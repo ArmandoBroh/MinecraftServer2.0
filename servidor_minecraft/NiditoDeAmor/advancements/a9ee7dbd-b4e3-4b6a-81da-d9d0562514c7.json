@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-12 00:48:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2024-11-08 02:54:35 +0000"
@@ -167,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-12 00:48:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-11-08 05:15:52 +0000"
@@ -218,6 +230,12 @@
   "create:recipes/create.palettes/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2024-11-08 05:23:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_minecraft/dark_oak": {
+    "criteria": {
+      "has_plank": "2025-04-12 00:48:33 +0000"
     },
     "done": true
   },
@@ -440,6 +458,12 @@
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2024-11-19 05:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-12 00:48:33 +0000"
     },
     "done": true
   },
@@ -794,6 +818,12 @@
   "create:recipes/create.palettes/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-11-08 05:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-12 00:48:33 +0000"
     },
     "done": true
   },
@@ -1977,6 +2007,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-04-12 00:49:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-04-06 00:38:39 +0000"
@@ -2607,6 +2643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-12 00:48:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-11-10 08:51:19 +0000"
@@ -3091,6 +3133,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-04-02 02:22:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-04-12 00:45:21 +0000"
     },
     "done": true
   },
@@ -4181,6 +4229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-12 00:48:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2024-11-08 05:23:38 +0000"
@@ -4208,6 +4262,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-11-08 05:23:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-12 00:48:33 +0000"
     },
     "done": true
   },
@@ -4556,6 +4616,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-12 00:48:33 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2025-04-10 05:17:45 +0000"
@@ -4601,6 +4667,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2024-11-19 07:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-12 00:48:33 +0000"
     },
     "done": true
   },
@@ -4688,6 +4760,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hanging_sign_minecraft/dark_oak": {
+    "criteria": {
+      "has_plank": "2025-04-12 00:48:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2024-11-08 06:59:06 +0000"
@@ -4722,6 +4800,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-11-08 07:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-12 00:48:33 +0000"
     },
     "done": true
   },

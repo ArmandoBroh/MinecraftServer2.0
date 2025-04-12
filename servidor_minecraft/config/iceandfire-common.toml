@@ -147,7 +147,7 @@
 [Mobs]
 
 	[Mobs.Pixies]
-		#True if pixie villages are allwoed to spawn
+		#True if pixie villages are allowed to spawn
 		"Spawn Pixies" = false
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000

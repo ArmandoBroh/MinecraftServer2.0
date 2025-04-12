@@ -9211,3 +9211,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 02:33:50.924] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [12Apr2025 02:34:06.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
 [12Apr2025 02:34:06.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[12Apr2025 02:39:06.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[12Apr2025 02:39:06.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[12Apr2025 02:39:19.513] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=39, z=39} BlockPos{x=-83, y=39, z=39}
+[12Apr2025 02:39:19.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=39, z=39} BlockPos{x=-83, y=39, z=39}
+[12Apr2025 02:39:19.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=39, z=39} BlockPos{x=-83, y=39, z=39}
+[12Apr2025 02:41:08.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has made the advancement [A Terrible Fortress]
+[12Apr2025 02:41:10.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 has made the advancement [A Terrible Fortress]
+[12Apr2025 02:43:54.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has made the advancement [Into Fire]
+[12Apr2025 02:44:06.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[12Apr2025 02:44:06.710] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor

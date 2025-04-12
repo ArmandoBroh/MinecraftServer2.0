@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/misc/mosquito_larva": {
+    "criteria": {
+      "has_items": "2025-04-12 02:34:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-11-08 04:53:12 +0000"
@@ -446,6 +452,12 @@
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-11-12 06:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-04-12 02:43:12 +0000"
     },
     "done": true
   },
@@ -2931,6 +2943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-04-12 02:41:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-11-08 04:52:49 +0000"
@@ -3277,8 +3295,10 @@
     "criteria": {
       "minecraft:pillager": "2025-04-12 02:31:15 +0000",
       "minecraft:skeleton": "2024-11-08 04:56:13 +0000",
+      "minecraft:hoglin": "2025-04-12 02:35:37 +0000",
       "minecraft:spider": "2024-11-08 07:33:23 +0000",
       "minecraft:creeper": "2024-11-19 04:51:06 +0000",
+      "minecraft:wither_skeleton": "2025-04-12 02:42:58 +0000",
       "minecraft:husk": "2025-04-10 05:05:21 +0000",
       "minecraft:silverfish": "2024-11-08 05:42:50 +0000",
       "minecraft:zombie": "2024-11-08 05:41:56 +0000",
@@ -4055,6 +4075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-12 02:43:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2024-11-12 05:42:10 +0000"
@@ -4476,6 +4502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-04-12 02:41:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_pump": {
     "criteria": {
       "has_item": "2024-11-08 05:34:25 +0000"
@@ -4794,6 +4826,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2024-11-08 07:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-12 02:41:10 +0000"
     },
     "done": true
   },

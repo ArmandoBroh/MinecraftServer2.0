@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-04-12 02:36:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-08 04:55:24 +0000"
@@ -386,6 +392,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2024-11-10 08:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-04-12 02:36:34 +0000"
     },
     "done": true
   },
@@ -2416,6 +2428,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-12 02:43:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-11-08 04:36:45 +0000"
@@ -2866,6 +2884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-04-12 02:41:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-11-08 02:50:55 +0000"
@@ -2911,6 +2935,12 @@
   "create:recipes/create.palettes/asurine_pillar_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-11-08 05:15:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-04-12 02:41:17 +0000"
     },
     "done": true
   },
@@ -3175,9 +3205,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-11-19 04:57:27 +0000",
+      "minecraft:blaze": "2025-04-12 02:43:53 +0000",
       "minecraft:skeleton": "2024-11-08 05:02:50 +0000",
       "minecraft:spider": "2024-11-08 06:26:54 +0000",
       "minecraft:creeper": "2024-11-08 05:12:58 +0000",
+      "minecraft:wither_skeleton": "2025-04-12 02:42:59 +0000",
       "minecraft:husk": "2024-11-08 03:12:28 +0000",
       "minecraft:silverfish": "2024-11-08 05:42:26 +0000",
       "minecraft:zombie": "2024-11-08 02:41:15 +0000",
@@ -3356,6 +3388,12 @@
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_sleeping_bag": "2024-11-08 03:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-12 02:43:54 +0000"
     },
     "done": true
   },
@@ -4132,6 +4170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-04-12 02:36:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-11-19 06:29:38 +0000"
@@ -4325,6 +4369,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-04-12 02:36:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-08 03:19:18 +0000"
@@ -4370,6 +4420,12 @@
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2024-11-08 07:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-04-12 02:41:47 +0000"
     },
     "done": true
   },
@@ -4700,6 +4756,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-12 02:41:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2024-11-08 02:55:27 +0000"
@@ -4898,6 +4960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-12 02:43:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2025-04-12 01:14:44 +0000"
@@ -4943,6 +5011,12 @@
   "create:recipes/create.palettes/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-11-08 04:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-04-12 02:36:34 +0000"
     },
     "done": true
   },
@@ -5048,6 +5122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-04-12 02:36:34 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_strange_tablet": {
     "criteria": {
       "has_strange_tablet": "2025-04-10 05:12:26 +0000"
@@ -5069,6 +5149,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2024-11-08 05:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-04-12 02:35:22 +0000"
     },
     "done": true
   },

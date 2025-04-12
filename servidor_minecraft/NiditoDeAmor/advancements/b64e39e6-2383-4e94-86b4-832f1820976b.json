@@ -593,6 +593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-12 02:46:29 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/iron_tower_shield": {
     "criteria": {
       "has_iron_ingot": "2024-11-08 04:46:49 +0000"
@@ -1705,6 +1711,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-12 02:49:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2024-11-08 02:39:54 +0000"
@@ -2152,6 +2164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-12 02:46:29 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2024-11-08 04:49:49 +0000"
@@ -2548,6 +2566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-12 02:46:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2024-11-08 04:37:01 +0000"
@@ -2713,6 +2737,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-11-19 07:12:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-12 02:46:29 +0000"
     },
     "done": true
   },
@@ -3319,6 +3349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-12 02:46:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-11-08 03:30:30 +0000"
@@ -3448,6 +3484,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-11-12 07:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-12 02:46:29 +0000"
     },
     "done": true
   },
@@ -3713,6 +3755,12 @@
   "supplementaries:recipes/hanging_sign_minecraft/birch": {
     "criteria": {
       "has_plank": "2024-11-08 08:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-12 02:46:29 +0000"
     },
     "done": true
   },
@@ -4131,6 +4179,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-11-12 07:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-12 02:46:29 +0000"
     },
     "done": true
   },
@@ -4918,6 +4972,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-04-12 02:49:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/acacia_window": {
     "criteria": {
       "has_ingredient": "2024-11-08 02:39:54 +0000"
@@ -5041,6 +5101,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-11-08 04:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-12 02:46:29 +0000"
     },
     "done": true
   },

@@ -969,3 +969,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 00:50:52.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has reached the goal [Greed may lead to loss]
 [12Apr2025 00:54:26.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has reached the goal [Home Sweet Home]
 [12Apr2025 00:54:35.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 has reached the goal [Home Sweet Home]
+[12Apr2025 01:05:11.847] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArmandoBroh lost connection: Disconnected
+[12Apr2025 01:05:11.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh left the game
+[12Apr2025 01:09:07.232] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ArmandoBroh is b64e39e6-2383-4e94-86b4-832f1820976b
+[12Apr2025 01:09:09.593] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@68c51c2
+[12Apr2025 01:09:09.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArmandoBroh[/127.231.174.51:53969] logged in with entity id 12361 at (1433.8012504379683, 63.0, 1693.1055779976386)
+[12Apr2025 01:09:09.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh joined the game

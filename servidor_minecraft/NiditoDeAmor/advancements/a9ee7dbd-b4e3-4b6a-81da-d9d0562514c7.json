@@ -3989,6 +3989,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/tools/falconry_hood": {
+    "criteria": {
+      "has_items": "2025-04-12 01:29:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-11-08 04:52:49 +0000"
@@ -4220,6 +4226,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-11-08 05:51:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/combat/roadrunner_boots": {
+    "criteria": {
+      "has_items": "2025-04-12 01:29:24 +0000"
     },
     "done": true
   },

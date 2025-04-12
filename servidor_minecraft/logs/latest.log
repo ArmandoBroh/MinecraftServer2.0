@@ -972,3 +972,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 04:04:50.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh is bleeding. ArmandoBroh was doomed to fall by Hippogryph
 [12Apr2025 04:04:50.474] [Server thread/WARN] [tombstone/]: The death event of the player ArmandoBroh was canceled by another mod
 [12Apr2025 04:04:50.492] [Server thread/INFO] [tombstone/]: The player ArmandoBroh has successfully been saved
+[12Apr2025 04:19:23.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 is bleeding. Zafiro_21 was slain by Vindicator
+[12Apr2025 04:19:23.483] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
+[12Apr2025 04:19:23.490] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
+[12Apr2025 04:21:26.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh is bleeding. ArmandoBroh was slain by Vex
+[12Apr2025 04:21:26.790] [Server thread/WARN] [tombstone/]: The death event of the player ArmandoBroh was canceled by another mod
+[12Apr2025 04:21:26.792] [Server thread/INFO] [tombstone/]: The player ArmandoBroh has successfully been saved
+[12Apr2025 04:21:32.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 is bleeding. Zafiro_21 was slain by Vex
+[12Apr2025 04:21:32.836] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
+[12Apr2025 04:21:32.838] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
+[12Apr2025 04:21:39.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 was slain by Vex
+[12Apr2025 04:22:19.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 is bleeding. Zafiro_21 was slain by Vex
+[12Apr2025 04:22:19.134] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
+[12Apr2025 04:22:19.138] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
+[12Apr2025 04:22:28.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh is bleeding. ArmandoBroh was slain by Vex
+[12Apr2025 04:22:28.332] [Server thread/WARN] [tombstone/]: The death event of the player ArmandoBroh was canceled by another mod
+[12Apr2025 04:22:28.338] [Server thread/INFO] [tombstone/]: The player ArmandoBroh has successfully been saved
+[12Apr2025 04:22:40.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh was slain by Vex
+[12Apr2025 04:23:03.386] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 is bleeding. Zafiro_21 was slain by Vex
+[12Apr2025 04:23:03.386] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
+[12Apr2025 04:23:03.391] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
+[12Apr2025 04:27:45.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 is bleeding. Zafiro_21 was burnt to a crisp whilst fighting Vindicator
+[12Apr2025 04:27:45.933] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
+[12Apr2025 04:27:45.934] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
+[12Apr2025 04:28:45.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 was burnt to a crisp whilst fighting Vindicator

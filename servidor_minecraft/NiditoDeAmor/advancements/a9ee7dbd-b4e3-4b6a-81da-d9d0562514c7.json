@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-04-12 04:24:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-12 02:26:03 +0000"
@@ -437,6 +443,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-04-12 04:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-04-12 04:22:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/tomato_sauce": {
     "criteria": {
       "has_tomato": "2024-11-08 07:44:33 +0000"
@@ -512,6 +530,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2024-11-19 04:51:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-04-12 04:24:30 +0000"
     },
     "done": true
   },
@@ -1369,6 +1393,12 @@
     },
     "done": true
   },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-04-12 04:22:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-08 03:59:01 +0000"
@@ -1378,6 +1408,12 @@
   "create:recipes/create.palettes/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-04-06 01:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2025-04-12 04:21:29 +0000"
     },
     "done": true
   },
@@ -2037,6 +2073,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-04-12 04:24:30 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2024-11-12 07:46:39 +0000"
@@ -2046,6 +2088,12 @@
   "create:recipes/create.base/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2024-11-12 06:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2025-04-12 04:21:29 +0000"
     },
     "done": true
   },
@@ -2100,6 +2148,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-11-08 05:51:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-04-12 04:24:30 +0000"
     },
     "done": true
   },
@@ -2265,6 +2319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-04-12 04:22:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_shovel": "2024-11-19 07:03:21 +0000"
@@ -2373,6 +2433,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-04-12 04:24:30 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/obsidian_basic_shield": {
     "criteria": {
       "has_obsidian": "2024-11-08 03:26:01 +0000"
@@ -2388,6 +2454,12 @@
   "alexsmobs:recipes/food/kangaroo_burger": {
     "criteria": {
       "has_items": "2024-11-08 05:36:55 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green": {
+    "criteria": {
+      "has_green_wool": "2025-04-12 04:21:29 +0000"
     },
     "done": true
   },
@@ -2697,6 +2769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-04-12 04:24:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-11-08 04:45:26 +0000"
@@ -2706,6 +2784,18 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-11-10 08:51:19 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_green_wool": "2025-04-12 04:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-04-12 04:24:30 +0000"
     },
     "done": true
   },
@@ -2856,6 +2946,12 @@
   "farmersdelight:recipes/farmersdelight/pie_crust": {
     "criteria": {
       "has_wheat": "2024-11-08 05:21:56 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-04-12 04:22:05 +0000"
     },
     "done": true
   },
@@ -3351,12 +3447,15 @@
       "minecraft:pillager": "2025-04-12 02:31:15 +0000",
       "minecraft:skeleton": "2024-11-08 04:56:13 +0000",
       "minecraft:hoglin": "2025-04-12 02:35:37 +0000",
+      "minecraft:vindicator": "2025-04-12 04:20:23 +0000",
       "minecraft:magma_cube": "2025-04-12 02:51:33 +0000",
       "minecraft:spider": "2024-11-08 07:33:23 +0000",
       "minecraft:creeper": "2024-11-19 04:51:06 +0000",
+      "minecraft:evoker": "2025-04-12 04:22:08 +0000",
       "minecraft:wither_skeleton": "2025-04-12 02:42:58 +0000",
       "minecraft:husk": "2025-04-10 05:05:21 +0000",
       "minecraft:silverfish": "2024-11-08 05:42:50 +0000",
+      "minecraft:vex": "2025-04-12 04:21:22 +0000",
       "minecraft:zombie": "2024-11-08 05:41:56 +0000",
       "minecraft:drowned": "2025-04-10 03:57:56 +0000",
       "minecraft:zombie_villager": "2025-04-10 04:50:32 +0000"
@@ -3486,6 +3585,12 @@
   "create:recipes/create.palettes/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-11-08 05:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-04-12 04:24:30 +0000"
     },
     "done": true
   },
@@ -3735,6 +3840,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-04-12 04:22:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-11-08 07:33:23 +0000"
@@ -3781,6 +3892,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-11-08 05:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-04-12 04:24:30 +0000"
     },
     "done": true
   },
@@ -3922,6 +4039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2025-04-12 04:21:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-11-08 05:16:55 +0000"
@@ -3956,6 +4079,7 @@
       "minecraft:stony_shore": "2025-04-10 06:50:03 +0000",
       "minecraft:dripstone_caves": "2024-11-08 04:54:50 +0000",
       "minecraft:swamp": "2025-04-06 00:37:26 +0000",
+      "minecraft:grove": "2025-04-12 04:11:05 +0000",
       "minecraft:forest": "2024-11-08 05:12:39 +0000",
       "minecraft:desert": "2024-11-08 02:58:15 +0000",
       "minecraft:jungle": "2025-03-02 08:39:31 +0000",
@@ -4573,6 +4697,12 @@
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2024-11-08 05:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-04-12 04:24:30 +0000"
     },
     "done": true
   },
@@ -5339,6 +5469,12 @@
   "create:recipes/create.base/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2024-11-08 05:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-04-12 04:24:30 +0000"
     },
     "done": true
   },

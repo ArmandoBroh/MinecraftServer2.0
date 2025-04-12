@@ -2855,3 +2855,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 02:43:54.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has made the advancement [Into Fire]
 [12Apr2025 02:45:05.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 has made the advancement [Into Fire]
 [12Apr2025 02:49:47.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has made the advancement [Spooky Scary Skeleton]
+[12Apr2025 02:55:14.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh is bleeding. ArmandoBroh fell from a high place
+[12Apr2025 02:55:14.092] [Server thread/WARN] [tombstone/]: The death event of the player ArmandoBroh was canceled by another mod
+[12Apr2025 02:55:14.093] [Server thread/INFO] [tombstone/]: The player ArmandoBroh has successfully been saved
+[12Apr2025 02:55:33.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 is bleeding. Zafiro_21 fell from a high place
+[12Apr2025 02:55:33.935] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
+[12Apr2025 02:55:33.937] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
+[12Apr2025 02:55:45.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 fell from a high place
+[12Apr2025 03:00:24.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has made the advancement [A Flaming Sword]
+[12Apr2025 03:00:52.780] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 has made the advancement [A Flaming Sword]

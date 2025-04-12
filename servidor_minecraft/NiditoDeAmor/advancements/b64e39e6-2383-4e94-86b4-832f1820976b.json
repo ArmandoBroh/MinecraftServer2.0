@@ -2986,6 +2986,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-04-12 03:00:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2024-11-08 05:47:27 +0000"

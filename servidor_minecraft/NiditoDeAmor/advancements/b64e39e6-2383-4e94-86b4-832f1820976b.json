@@ -1489,6 +1489,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_disenchantment": {
+    "criteria": {
+      "coded_trigger": "2025-04-12 02:23:51 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:recipes/food/boiled_emu_egg": {
     "criteria": {
       "has_items": "2024-11-08 04:09:22 +0000"

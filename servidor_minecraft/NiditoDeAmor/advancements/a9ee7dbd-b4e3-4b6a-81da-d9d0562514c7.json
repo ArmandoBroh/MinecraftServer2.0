@@ -3363,6 +3363,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-12 03:05:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2024-11-10 08:51:19 +0000"

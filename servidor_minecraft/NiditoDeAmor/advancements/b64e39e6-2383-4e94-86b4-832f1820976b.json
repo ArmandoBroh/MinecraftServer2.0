@@ -5206,6 +5206,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-04-12 03:16:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-10 01:30:39 +0000"

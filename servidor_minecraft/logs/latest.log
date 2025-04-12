@@ -996,3 +996,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 04:27:45.933] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
 [12Apr2025 04:27:45.934] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
 [12Apr2025 04:28:45.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 was burnt to a crisp whilst fighting Vindicator
+[12Apr2025 04:41:51.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zafiro_21) moved wrongly! 0.3518062602444161
+[12Apr2025 04:41:51.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zafiro_21) moved wrongly! 0.8178600023220497
+[12Apr2025 04:41:52.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zafiro_21) moved wrongly! 0.28519380869187216
+[12Apr2025 04:41:52.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Zafiro_21) moved wrongly! 0.7478723853710108

@@ -1010,3 +1010,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 04:55:40.498] [Server thread/WARN] [tombstone/]: The death event of the player ArmandoBroh was canceled by another mod
 [12Apr2025 04:55:40.502] [Server thread/INFO] [tombstone/]: The player ArmandoBroh has successfully been saved
 [12Apr2025 04:55:46.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh was doomed to fall
+[12Apr2025 05:21:46.300] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zafiro_21 lost connection: Disconnected
+[12Apr2025 05:21:46.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 left the game
+[12Apr2025 05:22:01.625] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Zafiro_21 is a9ee7dbd-b4e3-4b6a-81da-d9d0562514c7
+[12Apr2025 05:22:04.996] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2a196536
+[12Apr2025 05:22:05.004] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zafiro_21[/127.177.97.51:34909] logged in with entity id 48346 at (1397.5242759157, 63.0, 1621.376630060626)
+[12Apr2025 05:22:05.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 joined the game
+[12Apr2025 05:25:58.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <ArmandoBroh> decobench

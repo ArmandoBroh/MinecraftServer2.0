@@ -1238,3 +1238,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Apr2025 02:30:29.178] [Server thread/INFO] [tombstone/]: The player ArmandoBroh has successfully been saved
 [13Apr2025 02:30:40.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh was slain by Cave Centipede
 [13Apr2025 02:30:42.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 was struck by lightning
+[13Apr2025 02:37:19.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 is bleeding. Zafiro_21 was slain by ArmandoBroh
+[13Apr2025 02:37:19.584] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
+[13Apr2025 02:37:19.585] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
+[13Apr2025 02:38:44.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 is bleeding. Zafiro_21 was burnt to a crisp whilst fighting ArmandoBroh
+[13Apr2025 02:38:44.477] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
+[13Apr2025 02:38:44.478] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
+[13Apr2025 02:41:33.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 is bleeding. Zafiro_21 was slain by Cave Spider
+[13Apr2025 02:41:33.324] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
+[13Apr2025 02:41:33.326] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
+[13Apr2025 02:41:41.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh is bleeding. ArmandoBroh was struck by lightning whilst fighting Cave Spider
+[13Apr2025 02:41:41.774] [Server thread/WARN] [tombstone/]: The death event of the player ArmandoBroh was canceled by another mod
+[13Apr2025 02:41:41.776] [Server thread/INFO] [tombstone/]: The player ArmandoBroh has successfully been saved
+[13Apr2025 02:41:51.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 was slain by Cave Spider
+[13Apr2025 02:42:09.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh was struck by lightning whilst fighting Cave Spider

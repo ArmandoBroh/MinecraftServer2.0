@@ -1177,3 +1177,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Apr2025 01:16:14.249] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4b15aae
 [13Apr2025 01:16:14.261] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zafiro_21[/127.177.97.51:49833] logged in with entity id 1501 at (1410.7025988806186, 74.5, 1620.7681112086825)
 [13Apr2025 01:16:14.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 joined the game
+[13Apr2025 01:48:26.343] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[13Apr2025 01:48:26.394] [Server thread/INFO] [naturescompass/]: Search succeeded: 1765 radius, 741 samples
+[13Apr2025 01:48:51.584] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[13Apr2025 01:48:51.637] [Server thread/INFO] [naturescompass/]: Search succeeded: 1765 radius, 741 samples
+[13Apr2025 01:50:53.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 is bleeding. Zafiro_21 was slain by Death Worm
+[13Apr2025 01:50:53.724] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
+[13Apr2025 01:50:53.732] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
+[13Apr2025 01:51:12.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has made the advancement [Rigged from the Start]
+[13Apr2025 01:51:22.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh is bleeding. ArmandoBroh was blown up by Death Worm
+[13Apr2025 01:51:22.272] [Server thread/WARN] [tombstone/]: The death event of the player ArmandoBroh was canceled by another mod
+[13Apr2025 01:51:22.280] [Server thread/INFO] [tombstone/]: The player ArmandoBroh has successfully been saved
+[13Apr2025 01:51:36.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh was blown up by Death Worm
+[13Apr2025 01:51:53.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 was slain by Death Worm

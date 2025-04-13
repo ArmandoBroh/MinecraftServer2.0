@@ -7458,3 +7458,51 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Apr2025 01:51:37.876] [Server thread/DEBUG] [tombstone/]: A new grave of the player ArmandoBroh was created at position [x:1797, y:66, z:1338, dim:minecraft:overworld]
 [13Apr2025 01:51:53.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 was slain by Death Worm
 [13Apr2025 01:51:53.675] [Server thread/DEBUG] [tombstone/]: A new grave of the player Zafiro_21 was created at position [x:1792, y:64, z:1313, dim:minecraft:overworld]
+[13Apr2025 01:53:33.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[13Apr2025 01:53:33.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[13Apr2025 01:56:23.402] [Worker-Main-32/DEBUG] [mixin/]: Mixing MuteSetBlockFarChunk from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[13Apr2025 01:56:48.384] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh is bleeding. ArmandoBroh was blown up by Death Worm
+[13Apr2025 01:56:48.385] [Server thread/WARN] [tombstone/]: The death event of the player ArmandoBroh was canceled by another mod
+[13Apr2025 01:56:48.410] [Server thread/INFO] [tombstone/]: The player ArmandoBroh has successfully been saved
+[13Apr2025 01:58:08.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 is bleeding. Zafiro_21 was blown up by Death Worm
+[13Apr2025 01:58:08.773] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
+[13Apr2025 01:58:08.796] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
+[13Apr2025 01:58:33.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[13Apr2025 01:58:33.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[13Apr2025 02:03:33.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[13Apr2025 02:03:33.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[13Apr2025 02:04:19.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 is bleeding. Zafiro_21 was shot by Skeleton
+[13Apr2025 02:04:19.525] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
+[13Apr2025 02:04:19.527] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
+[13Apr2025 02:04:48.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 is bleeding. Zafiro_21 was shot by Skeleton
+[13Apr2025 02:04:48.379] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
+[13Apr2025 02:04:48.380] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
+[13Apr2025 02:07:48.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 is bleeding. Zafiro_21 was shot by Skeleton
+[13Apr2025 02:07:48.880] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
+[13Apr2025 02:07:48.882] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
+[13Apr2025 02:08:33.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[13Apr2025 02:08:33.128] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[13Apr2025 02:10:03.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 is bleeding. Zafiro_21 was slain by Zombie
+[13Apr2025 02:10:03.577] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
+[13Apr2025 02:10:03.582] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
+[13Apr2025 02:10:28.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 is bleeding. Zafiro_21 was slain by Cave Spider
+[13Apr2025 02:10:28.933] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
+[13Apr2025 02:10:28.935] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
+[13Apr2025 02:11:15.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 is bleeding. Zafiro_21 was slain by Cave Spider
+[13Apr2025 02:11:15.976] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
+[13Apr2025 02:11:15.979] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
+[13Apr2025 02:12:07.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh is bleeding. ArmandoBroh was doomed to fall
+[13Apr2025 02:12:07.392] [Server thread/WARN] [tombstone/]: The death event of the player ArmandoBroh was canceled by another mod
+[13Apr2025 02:12:07.393] [Server thread/INFO] [tombstone/]: The player ArmandoBroh has successfully been saved
+[13Apr2025 02:12:22.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh was doomed to fall
+[13Apr2025 02:12:22.722] [Server thread/DEBUG] [tombstone/]: A new grave of the player ArmandoBroh was created at position [x:2635, y:3, z:478, dim:minecraft:overworld]
+[13Apr2025 02:12:43.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has made the advancement [Chest Slayer]
+[13Apr2025 02:13:21.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 is bleeding. Zafiro_21 was slain by ArmandoBroh
+[13Apr2025 02:13:21.093] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
+[13Apr2025 02:13:21.095] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
+[13Apr2025 02:13:33.114] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[13Apr2025 02:13:33.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[13Apr2025 02:15:36.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has made the advancement [The Cutest Predator]
+[13Apr2025 02:18:33.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[13Apr2025 02:18:33.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[13Apr2025 02:20:09.352] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArmandoBroh moved too quickly! -1179.199999988079,48.1,1211.199999988079

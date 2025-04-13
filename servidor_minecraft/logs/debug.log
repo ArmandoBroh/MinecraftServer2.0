@@ -6863,3 +6863,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Apr2025 00:02:30.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Zafiro_21> musgo
 [13Apr2025 00:06:29.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
 [13Apr2025 00:06:29.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[13Apr2025 00:11:29.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[13Apr2025 00:11:29.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[13Apr2025 00:16:29.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[13Apr2025 00:16:29.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[13Apr2025 00:19:09.341] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Apr2025 00:19:09.442] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Apr2025 00:19:09.540] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Apr2025 00:19:09.642] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Apr2025 00:19:09.740] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Apr2025 00:19:09.854] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Apr2025 00:19:09.939] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Apr2025 00:19:10.042] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Apr2025 00:19:10.140] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Apr2025 00:19:10.240] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Apr2025 00:19:10.342] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Apr2025 00:19:10.441] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Apr2025 00:19:10.538] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Apr2025 00:19:10.640] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Apr2025 00:19:10.739] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Apr2025 00:19:10.857] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.

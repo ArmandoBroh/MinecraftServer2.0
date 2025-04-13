@@ -15,3 +15,9 @@
 [13Apr2025 00:19:10.640] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [13Apr2025 00:19:10.739] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [13Apr2025 00:19:10.857] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Apr2025 00:30:06.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArmandoBroh lost connection: Disconnected
+[13Apr2025 00:30:06.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh left the game
+[13Apr2025 00:34:52.649] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player ArmandoBroh is b64e39e6-2383-4e94-86b4-832f1820976b
+[13Apr2025 00:34:55.119] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@313423fc
+[13Apr2025 00:34:55.127] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArmandoBroh[/127.231.174.51:50967] logged in with entity id 17394 at (1434.762499988079, 63.0, 1694.2781665473512)
+[13Apr2025 00:34:55.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh joined the game

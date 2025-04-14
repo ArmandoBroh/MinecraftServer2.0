@@ -992,3 +992,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Apr2025 05:18:36.916] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ArmandoBroh[/127.231.174.51:59613] logged in with entity id 499 at (1432.273565623334, 64.0625, 1695.699999988079)
 [14Apr2025 05:18:36.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh joined the game
 [14Apr2025 05:18:37.014] [Server thread/INFO] [Waila/]: Syncing config to ArmandoBroh (b64e39e6-2383-4e94-86b4-832f1820976b)
+[14Apr2025 05:20:28.591] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Zafiro_21 is a9ee7dbd-b4e3-4b6a-81da-d9d0562514c7
+[14Apr2025 05:20:32.021] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3810fe06
+[14Apr2025 05:20:32.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zafiro_21[/127.50.70.3:45679] logged in with entity id 1493 at (1433.437417164235, 63.0, 1688.9635265742065)
+[14Apr2025 05:20:32.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 joined the game
+[14Apr2025 05:20:32.110] [Server thread/INFO] [Waila/]: Syncing config to Zafiro_21 (a9ee7dbd-b4e3-4b6a-81da-d9d0562514c7)
+[14Apr2025 05:20:39.164] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Config file updated
+[14Apr2025 05:23:39.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zafiro_21 lost connection: Disconnected
+[14Apr2025 05:23:39.356] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 left the game
+[14Apr2025 05:27:32.683] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Zafiro_21 is a9ee7dbd-b4e3-4b6a-81da-d9d0562514c7
+[14Apr2025 05:27:35.584] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@45d6483e
+[14Apr2025 05:27:35.597] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zafiro_21[/127.50.70.3:36705] logged in with entity id 2946 at (1433.427370336231, 63.0, 1692.0102428458897)
+[14Apr2025 05:27:35.606] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 joined the game
+[14Apr2025 05:27:35.661] [Server thread/INFO] [Waila/]: Syncing config to Zafiro_21 (a9ee7dbd-b4e3-4b6a-81da-d9d0562514c7)

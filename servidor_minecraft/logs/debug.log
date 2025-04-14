@@ -7648,3 +7648,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Apr2025 05:36:50.610] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/p3pp3rf1y/sophisticatedcore/common/gui/SlotSuppliedHandler (target of net/minecraft/world/inventory/Slot)
 [14Apr2025 05:36:56.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
 [14Apr2025 05:36:56.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[14Apr2025 05:41:56.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[14Apr2025 05:41:56.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[14Apr2025 05:43:20.388] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/p3pp3rf1y/sophisticatedcore/upgrades/tank/TankUpgradeContainer$TankIOSlot (target of net/minecraft/world/inventory/Slot)
+[14Apr2025 05:46:34.054] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Apr2025 05:46:34.171] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Apr2025 05:46:34.260] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Apr2025 05:46:34.372] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Apr2025 05:46:34.452] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Apr2025 05:46:34.552] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Apr2025 05:46:34.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Apr2025 05:46:34.849] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Apr2025 05:46:34.982] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Apr2025 05:46:35.008] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Apr2025 05:46:35.064] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Apr2025 05:46:35.171] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Apr2025 05:46:35.255] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Apr2025 05:46:35.372] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[14Apr2025 05:46:56.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[14Apr2025 05:46:56.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[14Apr2025 05:48:54.071] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming lain/mods/cos/impl/inventory/ContainerCosArmor$1 (target of net/minecraft/world/inventory/Slot)
+[14Apr2025 05:48:54.071] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming lain/mods/cos/impl/inventory/ContainerCosArmor$2 (target of net/minecraft/world/inventory/Slot)
+[14Apr2025 05:48:54.072] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming lain/mods/cos/impl/inventory/ContainerCosArmor$3 (target of net/minecraft/world/inventory/Slot)

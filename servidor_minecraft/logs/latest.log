@@ -1022,3 +1022,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Apr2025 05:57:15.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 is bleeding. Zafiro_21 fell from a high place
 [14Apr2025 05:57:15.835] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
 [14Apr2025 05:57:15.838] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
+[14Apr2025 06:06:33.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 is bleeding. Zafiro_21 hit the ground too hard
+[14Apr2025 06:06:33.158] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
+[14Apr2025 06:06:33.159] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
+[14Apr2025 06:08:57.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has reached the goal [Soul Magic]

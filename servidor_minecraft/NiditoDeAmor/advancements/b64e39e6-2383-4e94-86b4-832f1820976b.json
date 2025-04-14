@@ -509,6 +509,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-04-14 05:57:02 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/void_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-14 05:27:52 +0000"
@@ -3520,6 +3526,7 @@
       "minecraft:husk": "2024-11-08 03:12:28 +0000",
       "minecraft:cave_spider": "2025-04-13 02:10:42 +0000",
       "minecraft:silverfish": "2024-11-08 05:42:26 +0000",
+      "minecraft:enderman": "2025-04-14 05:58:56 +0000",
       "minecraft:vex": "2025-04-12 04:21:41 +0000",
       "minecraft:zombie": "2024-11-08 02:41:15 +0000",
       "minecraft:drowned": "2025-04-05 23:22:56 +0000"
@@ -5111,7 +5118,8 @@
       "kelp": "2025-04-02 03:16:36 +0000",
       "sugar_cane": "2024-11-19 07:26:13 +0000",
       "red_mushroom": "2025-04-12 02:27:20 +0000",
-      "wheat": "2024-11-08 05:21:45 +0000"
+      "wheat": "2024-11-08 05:21:45 +0000",
+      "melon": "2025-04-14 06:00:08 +0000"
     },
     "done": false
   },
@@ -5604,6 +5612,12 @@
   "create:recipes/misc/crafting/materials/copper_ingot": {
     "criteria": {
       "has_item": "2025-04-12 03:16:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-04-14 05:57:02 +0000"
     },
     "done": true
   },

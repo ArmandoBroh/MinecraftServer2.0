@@ -7701,3 +7701,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Apr2025 06:06:56.448] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
 [14Apr2025 06:06:56.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
 [14Apr2025 06:08:57.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has reached the goal [Soul Magic]
+[14Apr2025 06:11:56.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[14Apr2025 06:11:56.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[14Apr2025 06:13:33.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArmandoBroh moved too quickly! -1374.433973453676,-73.9,-1270.5230186167096
+[14Apr2025 06:13:34.013] [Worker-Main-74/DEBUG] [mixin/]: Mixing MuteSetBlockFarChunk from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[14Apr2025 06:14:39.638] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/minecraft/world/inventory/ItemCombinerMenu$1 (target of net/minecraft/world/Container)
+[14Apr2025 06:16:56.431] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[14Apr2025 06:16:56.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[14Apr2025 06:19:07.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh is bleeding. ArmandoBroh was killed by magic whilst trying to escape Skeleton
+[14Apr2025 06:19:07.216] [Server thread/WARN] [tombstone/]: The death event of the player ArmandoBroh was canceled by another mod
+[14Apr2025 06:19:07.217] [Server thread/INFO] [tombstone/]: The player ArmandoBroh has successfully been saved
+[14Apr2025 06:19:17.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh was killed by magic whilst trying to escape Skeleton
+[14Apr2025 06:19:18.155] [Server thread/DEBUG] [tombstone/]: A new grave of the player ArmandoBroh was created at position [x:1334, y:-8, z:1497, dim:minecraft:overworld]
+[14Apr2025 06:19:18.158] [Server thread/INFO] [tombstone/]: The player ArmandoBroh has successfully been saved

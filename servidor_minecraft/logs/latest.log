@@ -1026,3 +1026,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Apr2025 06:06:33.158] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
 [14Apr2025 06:06:33.159] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
 [14Apr2025 06:08:57.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh has reached the goal [Soul Magic]
+[14Apr2025 06:13:33.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ArmandoBroh moved too quickly! -1374.433973453676,-73.9,-1270.5230186167096
+[14Apr2025 06:19:07.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh is bleeding. ArmandoBroh was killed by magic whilst trying to escape Skeleton
+[14Apr2025 06:19:07.216] [Server thread/WARN] [tombstone/]: The death event of the player ArmandoBroh was canceled by another mod
+[14Apr2025 06:19:07.217] [Server thread/INFO] [tombstone/]: The player ArmandoBroh has successfully been saved
+[14Apr2025 06:19:17.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh was killed by magic whilst trying to escape Skeleton
+[14Apr2025 06:19:18.158] [Server thread/INFO] [tombstone/]: The player ArmandoBroh has successfully been saved

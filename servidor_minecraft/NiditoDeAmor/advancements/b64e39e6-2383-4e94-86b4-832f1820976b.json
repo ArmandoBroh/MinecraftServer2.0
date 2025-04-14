@@ -1807,6 +1807,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-14 06:26:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2024-11-08 03:19:18 +0000"
@@ -3118,6 +3124,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-14 06:26:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2024-11-08 02:55:26 +0000"
@@ -3211,6 +3223,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_feeding_upgrade": {
     "criteria": {
       "has_feeding_upgrade": "2025-04-12 02:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-14 06:26:38 +0000"
     },
     "done": true
   },
@@ -4591,6 +4609,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/safety_net": {
+    "criteria": {
+      "has_rope": "2025-04-14 06:20:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-11-19 06:29:38 +0000"
@@ -4757,6 +4781,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_white_dye": "2024-11-12 05:42:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-14 06:26:38 +0000"
     },
     "done": true
   },
@@ -5304,6 +5334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-14 06:26:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-11-08 04:34:48 +0000"
@@ -5745,6 +5781,12 @@
   "create:recipes/create.palettes/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-11-08 05:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-14 06:26:38 +0000"
     },
     "done": true
   },

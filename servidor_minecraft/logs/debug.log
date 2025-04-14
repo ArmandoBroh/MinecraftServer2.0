@@ -7714,3 +7714,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Apr2025 06:19:17.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ArmandoBroh was killed by magic whilst trying to escape Skeleton
 [14Apr2025 06:19:18.155] [Server thread/DEBUG] [tombstone/]: A new grave of the player ArmandoBroh was created at position [x:1334, y:-8, z:1497, dim:minecraft:overworld]
 [14Apr2025 06:19:18.158] [Server thread/INFO] [tombstone/]: The player ArmandoBroh has successfully been saved
+[14Apr2025 06:21:56.454] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[14Apr2025 06:21:56.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[14Apr2025 06:26:56.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[14Apr2025 06:26:56.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor

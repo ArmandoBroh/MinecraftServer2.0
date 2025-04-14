@@ -7670,3 +7670,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Apr2025 05:48:54.071] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming lain/mods/cos/impl/inventory/ContainerCosArmor$1 (target of net/minecraft/world/inventory/Slot)
 [14Apr2025 05:48:54.071] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming lain/mods/cos/impl/inventory/ContainerCosArmor$2 (target of net/minecraft/world/inventory/Slot)
 [14Apr2025 05:48:54.072] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming lain/mods/cos/impl/inventory/ContainerCosArmor$3 (target of net/minecraft/world/inventory/Slot)
+[14Apr2025 05:51:56.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[14Apr2025 05:51:56.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[14Apr2025 05:56:56.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save NiditoDeAmor
+[14Apr2025 05:56:56.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete NiditoDeAmor
+[14Apr2025 05:57:05.309] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/p3pp3rf1y/sophisticatedcore/upgrades/cooking/CookingLogic (target of net/p3pp3rf1y/sophisticatedcore/upgrades/cooking/CookingLogic)
+[14Apr2025 05:57:05.309] [Server thread/DEBUG] [mixin/]: Mixing sophisticatedbackpacks.AccessorCookingLogic from polymorph_integrations.mixins.json into net.p3pp3rf1y.sophisticatedcore.upgrades.cooking.CookingLogic
+[14Apr2025 05:57:05.309] [Server thread/DEBUG] [mixin/]: polymorph_integrations.mixins.json:sophisticatedbackpacks.AccessorCookingLogic: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[14Apr2025 05:57:05.310] [Server thread/DEBUG] [mixin/]: Mixing sophisticatedbackpacks.MixinCookingLogic from polymorph_integrations.mixins.json into net.p3pp3rf1y.sophisticatedcore.upgrades.cooking.CookingLogic
+[14Apr2025 05:57:05.310] [Server thread/DEBUG] [mixin/]: polymorph_integrations.mixins.json:sophisticatedbackpacks.MixinCookingLogic: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[14Apr2025 05:57:05.312] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/p3pp3rf1y/sophisticatedcore/upgrades/cooking/CookingLogic$1 (target of net/minecraftforge/items/IItemHandler)
+[14Apr2025 05:57:05.314] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/p3pp3rf1y/sophisticatedcore/upgrades/FilterLogicContainerBase$TagSelectionSlot (target of net/minecraft/world/inventory/Slot)
+[14Apr2025 05:57:05.315] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/p3pp3rf1y/sophisticatedcore/util/FilterItemStackHandler (target of net/minecraftforge/items/IItemHandler)
+[14Apr2025 05:57:05.316] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/p3pp3rf1y/sophisticatedcore/common/gui/FilterSlotItemHandler (target of net/minecraft/world/inventory/Slot)
+[14Apr2025 05:57:05.317] [Server thread/DEBUG] [mixin/]: Mixing sophisticatedbackpacks.AccessorCookingLogicContainer from polymorph_integrations.mixins.json into net.p3pp3rf1y.sophisticatedcore.upgrades.cooking.CookingLogicContainer
+[14Apr2025 05:57:05.317] [Server thread/DEBUG] [mixin/]: polymorph_integrations.mixins.json:sophisticatedbackpacks.AccessorCookingLogicContainer: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[14Apr2025 05:57:05.318] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/p3pp3rf1y/sophisticatedcore/upgrades/cooking/CookingLogicContainer$1 (target of net/minecraft/world/inventory/Slot)
+[14Apr2025 05:57:15.828] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/minecraftforge/items/wrapper/CombinedInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[14Apr2025 05:57:15.829] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/minecraftforge/items/wrapper/RangedWrapper (target of net/minecraftforge/items/IItemHandler)
+[14Apr2025 05:57:15.829] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/minecraftforge/items/wrapper/PlayerArmorInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[14Apr2025 05:57:15.831] [Server thread/DEBUG] [portb.biggerstacks.TransformerEngine/]: Transforming net/minecraftforge/items/wrapper/PlayerOffhandInvWrapper (target of net/minecraftforge/items/IItemHandler)
+[14Apr2025 05:57:15.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Zafiro_21 is bleeding. Zafiro_21 fell from a high place
+[14Apr2025 05:57:15.835] [Server thread/WARN] [tombstone/]: The death event of the player Zafiro_21 was canceled by another mod
+[14Apr2025 05:57:15.838] [Server thread/INFO] [tombstone/]: The player Zafiro_21 has successfully been saved
